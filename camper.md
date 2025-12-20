@@ -21,7 +21,8 @@ Great on water use
 * Washer <https://www.amazon.com/Splendide-WDV2200XCD-Combo-Washer-Vented/dp/B004RCYNVO?pd_rd_w=JAWfM&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=ZC5PJGJH7R17KBBPDV61&pd_rd_wg=0mXVT&pd_rd_r=8fc2d5be-1df1-47f0-b76b-e57d989f8548&pd_rd_i=B004RCYNVO&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t>
 
 ## Boat Teak Deck
-* Primer <https://www.amazon.com/3M-3M23929-94-Primer-Quarts/dp/B07L8KMHVX?pd_rd_w=qVSzc&content-id=amzn1.sym.784113d6-3054-4922-a575-af4720478411&pf_rd_p=784113d6-3054-4922-a575-af4720478411&pf_rd_r=EYQ0HP14HW3N7ZWGT4B2&pd_rd_wg=yB5Es&pd_rd_r=477a54d9-740c-4803-a3a2-b83e057b9df7&pd_rd_i=B07L8KMHVX&psc=1&ref_=pd_bap_d_grid_rp_0_44_t>
+* Primer: <https://www.amazon.com/3M-3M23929-94-Primer-Quarts/dp/B07L8KMHVX?pd_rd_w=qVSzc&content-id=amzn1.sym.784113d6-3054-4922-a575-af4720478411&pf_rd_p=784113d6-3054-4922-a575-af4720478411&pf_rd_r=EYQ0HP14HW3N7ZWGT4B2&pd_rd_wg=yB5Es&pd_rd_r=477a54d9-740c-4803-a3a2-b83e057b9df7&pd_rd_i=B07L8KMHVX&psc=1&ref_=pd_bap_d_grid_rp_0_44_t>
+* Floor mat: <https://www.amazon.com/OCEANBROAD-Self-Adhesive-Flooring-Non-Slip-MotorBoats/dp/B0BR9WQ9ML?pd_rd_w=B2ZmN&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=XWDG2BKV76SRN540PESB&pd_rd_wg=eccdv&pd_rd_r=03a64457-681f-4639-9a80-306463025c18&pd_rd_i=B0BR9WQ9ML&psc=1&ref_=pd_basp_d_rpt_ba_s_16_t>
 * 4-6" Roller from Home Depot
 
 ## Table
@@ -48,8 +49,12 @@ Great on water use
 
 * 30" gas struts 150lbs <https://www.amazon.com/Springs-Support-Storage-Toolbox-IAQWE/dp/B0CQSM7WV7?pd_rd_w=gSOkz&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=SGB19M804J657YFV8SQP&pd_rd_wg=1Qe06&pd_rd_r=96e1d1d3-74fa-4c2e-bbb3-bee1aced345b&pd_rd_i=B0CQSM7WV7&psc=1&ref_=pd_basp_d_rpt_ba_s_11_t>
   Get less than 150lbs for lighter mattress and/or without latex topper
-* Latex topper: <https://www.amazon.com/Latex-Mattress-Topper-GOLS-Organic/dp/B09Z7SJGTD?pd_rd_w=qMhAV&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=4VFNADKT375EDC22W334&pd_rd_wg=OEUaa&pd_rd_r=da258dcc-dda5-4b65-9cf0-643e6f4526b6&pd_rd_i=B09Z7SJGTD&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t>
+* Latex topper, cuttable: <https://www.amazon.com/Latex-Mattress-Topper-GOLS-Organic/dp/B09Z7SJGTD?pd_rd_w=qMhAV&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=4VFNADKT375EDC22W334&pd_rd_wg=OEUaa&pd_rd_r=da258dcc-dda5-4b65-9cf0-643e6f4526b6&pd_rd_i=B09Z7SJGTD&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t>
   Works well but leaves a permanent print with 150lbs person. That shouldn't be
+
+### Kids Beds
+* Mattress (cut to size): <https://www.amazon.com/Greaton-4-Inch-High-Density-Replacement-Application/dp/B0BXYFHCNY?pd_rd_w=2opVM&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=80AXE9D1W4VWPBMD9KT4&pd_rd_wg=7TTkc&pd_rd_r=1df2ebd1-10a1-4f7f-a808-e6551e605272&pd_rd_i=B0BXYFHCNY&psc=1&ref_=pd_basp_d_rpt_ba_s_5_t>
+* Breathable Mattress Underlay: <https://www.amazon.com/Mattress-Breathable-Meshfiber-Ventilation-Aire-Flow/dp/B0DJS3HHQ3?pd_rd_w=B2ZmN&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=XWDG2BKV76SRN540PESB&pd_rd_wg=eccdv&pd_rd_r=03a64457-681f-4639-9a80-306463025c18&pd_rd_i=B0DJS3HHQ3&psc=1&ref_=pd_basp_d_rpt_ba_s_17_t>
 
 ## Mouse Traps
 
