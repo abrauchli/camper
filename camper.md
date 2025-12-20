@@ -2,6 +2,11 @@
 
 No guarantees of products still being available.
 
+## Couch
+
+* Storage Couch <https://www.amazon.com/LINSY-HOME-Sectional-Sectionals-Reamovable/dp/B0DSWN15J4?pd_rd_w=lfmJn&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=GY4YHM5B6VX53G0NT4GB&pd_rd_wg=xewKe&pd_rd_r=05882ea6-5b9b-4b37-a32d-d05ff8bf29fa&pd_rd_i=B0DSWN15J4&psc=1&ref_=pd_basp_d_rpt_ba_s_3_t>
+* 2Pack 2.5" square corner utility hinges from Walmart (needs two per seat)
+
 ## Dishwasher
 
 Works fine on 13 amp connection, technically needs 16 amps as per manual.
@@ -60,6 +65,7 @@ Great on water use
 * Curtain Rods: <https://www.amazon.com/Byondeth-Curtain-Adjustable-Diameter-Aluminium/dp/B0B7WQVYGF?pd_rd_w=kmIq7&content-id=amzn1.sym.784113d6-3054-4922-a575-af4720478411&pf_rd_p=784113d6-3054-4922-a575-af4720478411&pf_rd_r=KFJ7HAAAF4NP5QMWRAN5&pd_rd_wg=xTF5Y&pd_rd_r=b50e835c-ff7a-42f7-b4e7-75c8394606ff&pd_rd_i=B0B7WQVYGF&psc=1&ref_=pd_bap_d_grid_rp_0_70_t>
   Apply locktite to the screws retaining the rods since they tend to vibrate loose.
 * Magnetic Curtain binders: <https://www.amazon.com/KLOGTSIND-Magnetic-Tiebacks-Wood-Farmhouse/dp/B0CHRTZKB6?pd_rd_w=kmIq7&content-id=amzn1.sym.784113d6-3054-4922-a575-af4720478411&pf_rd_p=784113d6-3054-4922-a575-af4720478411&pf_rd_r=KFJ7HAAAF4NP5QMWRAN5&pd_rd_wg=xTF5Y&pd_rd_r=b50e835c-ff7a-42f7-b4e7-75c8394606ff&pd_rd_i=B0CHRTZKB6&psc=1&ref_=pd_bap_d_grid_rp_0_87_cp_t>
+* Actual curtains (cloth): <https://www.amazon.com/HPD-Half-Price-Drapes-PRCT-D214A-84/dp/B09MMBRLD3?pd_rd_w=JkpkA&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=DXPXT63CGDWVRN7RH8QJ&pd_rd_wg=2yxXp&pd_rd_r=437cce4b-8548-4fdf-bd24-8ba80e67525c&pd_rd_i=B09MMBRLD3&psc=1&ref_=pd_basp_d_rpt_ba_s_6_t>
 * Shades: <https://www.amazon.com/Persilux-Cordless-Free-Stop-Insulated-Protection/dp/B0DJGF6LL3?pd_rd_w=kmIq7&content-id=amzn1.sym.784113d6-3054-4922-a575-af4720478411&pf_rd_p=784113d6-3054-4922-a575-af4720478411&pf_rd_r=KFJ7HAAAF4NP5QMWRAN5&pd_rd_wg=xTF5Y&pd_rd_r=b50e835c-ff7a-42f7-b4e7-75c8394606ff&pd_rd_i=B0DJGF6LL3&psc=1&ref_=pd_bap_d_grid_rp_0_195_cp_t>
 
 ## Furrior Vision S Backup Cam
