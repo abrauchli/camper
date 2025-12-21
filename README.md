@@ -157,8 +157,7 @@ Onan 5500 Evap
   for everyone else. Measure your height and make sure it's enough. We need
   some leveling blocks in some cases to keep it straight or extend it to the
   necessary height.
-* [Climbing
-* net](https://www.amazon.com/Bunifa-Climbing-Playground-Stairway-Polyester/dp/B0CJJJ321V?pd_rd_w=B6myn&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=842GFY95C6NVREY5ATB1&pd_rd_wg=XdvF0&pd_rd_r=74b11a7c-242a-4287-8dcb-8b644939416c&pd_rd_i=B0CJJJ321V&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t)
+* [Climbing net](https://www.amazon.com/Bunifa-Climbing-Playground-Stairway-Polyester/dp/B0CJJJ321V?pd_rd_w=B6myn&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=842GFY95C6NVREY5ATB1&pd_rd_wg=XdvF0&pd_rd_r=74b11a7c-242a-4287-8dcb-8b644939416c&pd_rd_i=B0CJJJ321V&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t)
 * [Door stoppers](https://www.amazon.com/Creative-Co-op-DE1586-Nautical-White/dp/B00AU4D9H2?pd_rd_w=kmIq7&content-id=amzn1.sym.784113d6-3054-4922-a575-af4720478411&pf_rd_p=784113d6-3054-4922-a575-af4720478411&pf_rd_r=KFJ7HAAAF4NP5QMWRAN5&pd_rd_wg=xTF5Y&pd_rd_r=b50e835c-ff7a-42f7-b4e7-75c8394606ff&pd_rd_i=B00AU4D9H2&psc=1&ref_=pd_bap_d_grid_rp_0_155_t)
 * [Bluetooth Speaker](https://www.amazon.com/Creative-Stage-Portable-Bluetooth-Speaker/dp/B0CHKTDXWP?pd_rd_w=kmIq7&content-id=amzn1.sym.784113d6-3054-4922-a575-af4720478411&pf_rd_p=784113d6-3054-4922-a575-af4720478411&pf_rd_r=KFJ7HAAAF4NP5QMWRAN5&pd_rd_wg=xTF5Y&pd_rd_r=b50e835c-ff7a-42f7-b4e7-75c8394606ff&pd_rd_i=B0CHKTDXWP&psc=1&ref_=pd_bap_d_grid_rp_0_175_t)
   Has a battery, aux input and also works over just usb-c <-> PC
