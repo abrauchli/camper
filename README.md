@@ -1,6 +1,12 @@
 # Camper Stuff
 
-No guarantees of products still being available.
+A list of links to products we actually use on our Grand Design Momentum 395m
+RV.
+
+Did we miss something, know something better? We'd love to hear from you!
+File an issue or open a pull-request.
+
+*As an Amazon Associate I earn from qualifying purchases.*
 
 ## Table of Contents
 - [Couch](#couch)
