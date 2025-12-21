@@ -38,7 +38,7 @@ Also check out the [RAM 3500 equipment](RAM3500.md).
   https://www.amazon.com/LINSY-HOME-Sectional-Sectionals-Reamovable/dp/B0DSWN15J4?tag=rvlifehacks-20)
   model but it's phased out. Ours has single-seat dimensions of 20.1"D x 25.6"W
   x 34.4"H which has since changed in the available [Rubik III](
-  https://www.amazon.com/LINSY-HOME-Sectional-Removable-Convertible/dp/B0D97CJ7TZ) so check your measurements.
+  https://www.amazon.com/LINSY-HOME-Sectional-Removable-Convertible/dp/B0D97CJ7TZ?tag=rvlifehacks-20) so check your measurements.
 * 2 Pack 2.5" square corner utility hinges from Walmart (two hinges per seat, comes with screws)
 
 ## Dishwasher
