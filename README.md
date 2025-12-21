@@ -5,6 +5,8 @@ No guarantees of products still being available.
 ## Table of Contents
 - [Couch](#couch)
 - [Dishwasher](#dishwasher)
+- [Kitchen](#kitchen)
+- [Bathroom](#bathroom)
 - [Washer](#washer)
 - [Boat Teak Deck](#boat-teak-deck)
 - [Table](#table)
@@ -16,7 +18,10 @@ No guarantees of products still being available.
 - [Water](#water)
 - [Curtains and Shades](#curtains-and-shades)
 - [Furrior Vision S Backup Cam](#furrion-vision-s-backup-cam)
-- [Griddle](#Griddle)
+- [Griddle](#griddle)
+- [Generator](#generator)
+- [Fridge](#fridge)
+- [Plumbing](#plumbing)
 - [Random Stuff](#random-stuff)
 
 ## Couch
@@ -30,6 +35,21 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
 
 * [Dishwasher](https://www.amazon.com/FOTILE-Dishwasher-Combination-Energy-saving-SD2F-P3/dp/B0BZGXYQ4S?pd_rd_w=D5dmj&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=3TCRY51PPPZN04EAXDR8&pd_rd_wg=hO4EE&pd_rd_r=75639c3d-59a7-4035-acec-0bac32146441&pd_rd_i=B0BZGXYQ4S&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t>)
 * Plumbing supplies (ABS pipes, elbows and primer) from Home Depot
+
+## Kitchen
+
+* [Magnetic Knife Holder](https://www.amazon.com/dp/B09QQQM6GW?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Works great. Never lost a knife in transit either.
+* [Hanging Basket](https://www.amazon.com/dp/B0DKF9MDFZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Great for storing fruit. Hangs on the side of a cabinet.
+* [Napkin holder](https://www.amazon.com/dp/B0DYJGXTCM?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Has a little weight on top that keep the napkins from flying away.
+
+## Bathroom
+
+* [Vent Fan Motor](https://www.amazon.com/dp/B0DPXHTH54?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Drop-in 12V replacement for the original.
+* [Vent Cover](https://www.amazon.com/dp/B01HCNJDPK?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 ## Washer
 
@@ -107,6 +127,29 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM 3
 * [Cover](https://www.amazon.com/Cover-Blackstone-22-Grill-Water-Resistant/dp/B09V72F8XQ?pd_rd_w=cf1SK&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=3XE2YPCAXBPSJ7EJA4ST&pd_rd_wg=hphxC&pd_rd_r=e403a1f6-be69-4c27-b014-5981f39bd21c&pd_rd_i=B09V72F8XQ&psc=1&ref_=pd_basp_d_rpt_ba_s_6_t) - holds for about 4 years.
 * [Burger Press](https://www.amazon.com/SHINESTAR-Blackstone-Griddle-Pre-Seasoned-Outdoor/dp/B0CL6PRSGN?pd_rd_w=cf1SK&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=3XE2YPCAXBPSJ7EJA4ST&pd_rd_wg=hphxC&pd_rd_r=e403a1f6-be69-4c27-b014-5981f39bd21c&pd_rd_i=B0CL6PRSGN&psc=1&ref_=pd_basp_d_rpt_ba_s_4_pr_t_)
 
+## Generator
+
+Onan 5500 Evap
+
+* [Fuel Filter](https://www.amazon.com/dp/B004RCT19I?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* [Oil Filter and Wrench Adapter](https://www.amazon.com/dp/B0CNCK6J53?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* [Oil](https://www.amazon.com/dp/B000GAP43W?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+## Fridge
+
+* [Vent for Outside](https://www.amazon.com/dp/B0C6T1LLMX?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Great addon, works really well, but when power cuts it needs to be put in
+  manual mode by hand or it won't run.
+* [RV Fridge Outside Cover Clips](https://www.amazon.com/dp/B0DP6NX5DY?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Quite stiff, probably not as good as the original but those weren't really good either.. so far those worked.
+
+
+## Plumbing
+
+* [Valve](https://www.amazon.com/dp/B085RRTZKF?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Every time you fix a line that doesn't have a stop valve on the manifold, do yourself a favor and add one.
+
+
 ## Random Stuff
 * [Tripod Stabilizer](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0DRGVGBD1?pd_rd_w=034nK&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=AQTBCAVEQHP31PKTBVBZ&pd_rd_wg=ot7WX&pd_rd_r=a83aeae8-3730-4074-9520-5c2499969aa7&pd_rd_i=B0DRGVGBD1&psc=1&ref_=pd_basp_d_rpt_ba_s_1_t)
   Works with the Andersen hitch. For a regular fifth-wheel hitch, use the [King Pin variation](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0CL56P9KF?pd_rd_w=034nK&content-id=amzn1.sym.97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_p=97c08ff8-4f39-4f9e-b360-8dbdbec34ee6&pf_rd_r=AQTBCAVEQHP31PKTBVBZ&pd_rd_wg=ot7WX&pd_rd_r=a83aeae8-3730-4074-9520-5c2499969aa7&pd_rd_i=B0DRGVGBD1&th=1)
@@ -128,3 +171,9 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM 3
   Only use on black tanks and if valve gets sticky. Don't use as preventive measure. This one is water-soluble and doesn't contain silicones.
 * [Awning Motor Idler Cover](https://www.amazon.com/dp/B0CWZLLFC6?ref=ppx_yo2ov_dt_b_fed_asin_title)
   Lost one on the road. This one replaces it. Needs both halves replaced even if you still have one as it doesn't have the same curving.
+* [Tire Pressure Gauge](https://www.amazon.com/dp/B0BY2GD9VC?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Very precise and consistent. Much better than the mechanical Walmart ones. Goes up to enough pressure (90psi works fine)
+* [Magnetic Work Lights](https://www.amazon.com/dp/B0BYSXSDKT?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Doubles as bicycle light if you're willing to hold it while riding.
+* [Laundry Basket](https://www.amazon.com/dp/B0DG1VNT9M?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  Works fine in the kids bathroom.
