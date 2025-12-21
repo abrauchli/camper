@@ -28,6 +28,7 @@ File an issue or open a pull-request.
 - [Generator](#generator)
 - [Fridge](#fridge)
 - [Plumbing and Sewage](#plumbing-and-sewage)
+- [Screen Doors](#screen-doors)
 - [Random Stuff](#random-stuff)
 
 Also check out the [RAM 3500 equipment](RAM3500.md).
@@ -227,6 +228,15 @@ Onan 5500 Evap
   Even if not, they've come in handy for other purposes: I hook my
   roll-and-lock tonneau cover int it and it works on tow hooks for people stuck
   on the beach.
+
+## Screen Doors
+* [Screen Defender for 28" Door](https://www.amazon.com/Lippert-Components-859793-Defender-Protector/dp/B086HHKQVW?tag=rvlifehacks-20)
+* [Screen Defender for 30" Door](https://www.amazon.com/Lippert-Components-859794-Defender-Protector/dp/B086HJRRRS?tag=rvlifehacks-20)
+  One for the front and one for the back door. Great with little kids. Also works for dogs and cats that don't jump above the door handle.
+* [Screen Repair Tape](https://www.amazon.com/Grey-30-FT-Adhesive-Fiberglass/dp/B0BYZ7XBSG?tag=rvlifehacks-20)
+  Not as pretty as replacing the whole screen but it works really well and doesn't look too bad.
+* [Screen Repair Kit](https://www.amazon.com/HOMMEE-Screen-Repair-Kit-Installing/dp/B0B1B3VTMJ?tag=rvlifehacks-20)
+  Great tool to push the spline back in when it gets loose.
 
 ## Random Stuff
 * [Tripod Stabilizer](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0DRGVGBD1?tag=rvlifehacks-20)
