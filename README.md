@@ -73,6 +73,8 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
 * [Vent Fan Motor](https://www.amazon.com/dp/B0DPXHTH54?tag=rvlifehacks-20)
   Drop-in 12V replacement for the original.
 * [Vent Cover](https://www.amazon.com/dp/B01HCNJDPK?tag=rvlifehacks-20)
+* [Laundry Basket](https://www.amazon.com/dp/B0DG1VNT9M?tag=rvlifehacks-20)
+  Works fine in the kids bathroom.
 
 ## Washer
 
@@ -271,6 +273,9 @@ Onan 5500 Evap
   Lost one on the road. This one replaces it. Needs both halves replaced even if you still have one as it doesn't have the same curving.
 * [Magnetic Work Lights](https://www.amazon.com/dp/B0BYSXSDKT?tag=rvlifehacks-20)
   Doubles as bicycle light if you're willing to hold it while riding.
-* [Laundry Basket](https://www.amazon.com/dp/B0DG1VNT9M?tag=rvlifehacks-20)
-  Works fine in the kids bathroom.
+* [Eternabond Roof Repair Tape](https://www.amazon.com/EternaBond-WHITE-Mobile-Rubber-Repair/dp/B00AYPCJ9G?tag=rvlifehacks-20)
+  Lifesaver for little roof tears after scraping branches. Careful, once it's on it stays and will not come off.
+  We also use it to reinforce the side of the awning fabric against potential tears.
+* [Switchable Power Outlet](https://www.amazon.com/3Pack-POWAWINI-Grounded-Electrical-Indicator/dp/B0DS6HZNDB?tag=rvlifehacks-20)
+  We like to turn off some appliances but want the plug to stay in.
 
