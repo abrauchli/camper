@@ -78,6 +78,8 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
 
 * [Washer](https://www.amazon.com/Splendide-WDV2200XCD-Combo-Washer-Vented/dp/B004RCYNVO?tag=rvlifehacks-20)
   Washes well and is great on water use. Comparing with others, it seems this one uses only about half.
+* [Dicor Lap Sealant](https://www.amazon.com/Dicor-651SANSW-1-Non-Leveling-Ultra-Sealant/dp/B0949J5PQZ?tag=rvlifehacks-20)
+  Use non-sag sealant on the screw holes and the vent cover if you drill the hole yourself.
 
 ## Boat Teak Deck
 
@@ -94,7 +96,16 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
 ## Starlink
 
 * Starlink Residential 3rd Gen Standard Dish
-* Starlink roofmount
+* Starlink Standard Mobility Mount is best for a permanent spot on the RV roof.
+  Then use the kickstand that's included with the standard dish when you're parked right under a tree.
+* [Dicor Lap Sealant](https://www.amazon.com/Dicor-651SANSW-1-Non-Leveling-Ultra-Sealant/dp/B0949J5PQZ?tag=rvlifehacks-20)
+  To seal the roof after mounting the mobility mount with the lag screws (ideally into the roof trusses.)
+  You can use both self-leveling of non-sag. This is the non-sag which is a bit
+  stickier and also works for small repairs on the side of the roof or for
+  sealing a vent cover for the washer in the side of the RV.
+* Optionally, the X-frame base might make it a bit easier than the kickstand to
+* get optimal orientation.
+  We never had need for this though.
 * [Outdoor RJ45 cable CAT6 or more](https://www.amazon.com/Ethernet-Unshielded-Waterproof-Resistant-Internet/dp/B0B14CRJL1?tag=rvlifehacks-20)
 * [Waterproof Junction Box](https://www.amazon.com/Dustproof-Waterproof-Universal-Electrical-125x86x62mm/dp/B077QM9VM9?tag=rvlifehacks-20)
 * [Starlink subscription referral](https://starlink.com/residential?referral=RC-3762258-55110-60&app_source=share)
