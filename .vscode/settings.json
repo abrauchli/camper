@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "ASRC",
+        "Dicor",
+        "Eternabond",
+        "Evap",
+        "Furrion",
+        "Linsy",
+        "Mopar",
+        "MPPT",
+        "Onan",
+        "Renogy",
+        "Starlink",
+        "Unistrut",
+        "unistruts",
+        "Victron"
+    ],
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.enable": true,
+    "prettier.printWidth": 80,
+    "prettier.proseWrap": "always"
+}
