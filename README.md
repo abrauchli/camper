@@ -35,6 +35,7 @@ choose to, we'd like to sincerely thank you for supporting this work.
 _As an Amazon Associate I earn from qualifying purchases._
 
 - [Couch](#couch)
+- [Office](#office)
 - [Dishwasher](#dishwasher)
 - [Kitchen](#kitchen)
 - [Bathroom](#bathroom)
@@ -72,6 +73,30 @@ _As an Amazon Associate I earn from qualifying purchases._
   so check your measurements.
 - 2 Pack 2.5" square corner utility hinges from Walmart (two hinges per seat,
   comes with screws)
+
+### Office
+
+- [Office Desk Hinges](https://www.amazon.com/Mac-Sports-Collapsible-Outdoor-Utility/dp/B072JWBP66?tag=rvlifehacks-20)
+  Sturdy hinges for an office-desk
+- [Office Screen Wall Mount](https://www.amazon.com/WALI-Articulating-Monitor-Extension-100x100/dp/B01BCUM766?tag=rvlifehacks-20)
+  Sturdy single-stud mount for the screen. I use a 34" curved Samsung monitor
+  with a built-in USB hub.
+- [Fire TV Stick](https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9)
+  Turn any screen into a Smart TV. Too many ads but works nicely with the
+  bluetooth speaker and screen.
+- [Switchable Power Outlet](https://www.amazon.com/3Pack-POWAWINI-Grounded-Electrical-Indicator/dp/B0DS6HZNDB?tag=rvlifehacks-20)
+  We like to turn off some appliances like the FireTV but want the plug to stay
+  in.
+- [HDMI Switcher](https://www.amazon.com/Aluminum-Bidirectional-Switcher-Compatible-FireStick/dp/B0BKL2HM4H?tag=rvlifehacks-20)
+  Switch between computer and Fire TV without unplugging HDMI. Only needed if
+  your screen has only one HDMI input. I would've preferred my computer attached
+  over DisplayPort but it's hard to find 15ft DisplayPort cables at a decent
+  price, so I went with HDMI.
+- [Bluetooth Speaker](https://www.amazon.com/Creative-Stage-Portable-Bluetooth-Speaker/dp/B0CHKTDXWP?tag=rvlifehacks-20)
+  Has a battery, aux input and also works over just USB-C to the computer.
+- [15ft USB-C Cable](https://www.amazon.com/XAOSUN-Chager-MacBook-Charging-Samsung/dp/B0CHVWBGWL?tag=rvlifehacks-20)
+  Brings USB from the PC to the screen. Keyboard, mouse, USB drives etc. then
+  all plug into the screen's USB hub.
 
 ### Dishwasher
 
@@ -377,8 +402,6 @@ Onan 5500 Evap
   <img src="assets/pics/thumbs/BedMeshNet.jpg" width="25%">
 
 - [Rope-Ball Door stoppers](https://www.amazon.com/Creative-Co-op-DE1586-Nautical-White/dp/B00AU4D9H2?tag=rvlifehacks-20)
-- [Bluetooth Speaker](https://www.amazon.com/Creative-Stage-Portable-Bluetooth-Speaker/dp/B0CHKTDXWP?tag=rvlifehacks-20)
-  Has a battery, aux input and also works over just USB-C to the computer.
 - [Slim dresser](https://www.amazon.com/Sorbus-Kids-Dresser-Drawers-Organizer/dp/B0DYPZV8TJ?tag=rvlifehacks-20)
 - [Pickup cargo net](https://www.amazon.com/TireTek-Accessories-Heavy-Duty-Stretches-Carabiners/dp/B07ZQP5QG7?tag=rvlifehacks-20)
 - [Outdoor rug](https://www.amazon.com/HEBE-Outdoor-Waterproof-Reversible-Backyard/dp/B0CKVCWYFX?tag=rvlifehacks-20)
@@ -396,7 +419,8 @@ Onan 5500 Evap
   Lifesaver for little roof tears after scraping branches. Careful, once it's on
   it stays and will not come off. We also use it to reinforce the side of the
   awning fabric against potential tears.
-- [Switchable Power Outlet](https://www.amazon.com/3Pack-POWAWINI-Grounded-Electrical-Indicator/dp/B0DS6HZNDB?tag=rvlifehacks-20)
-  We like to turn off some appliances but want the plug to stay in.
 - [Spare ceiling lights 4.5"](https://www.amazon.com/Homdec-4-5Inch-Recessed-Interior-Motorhome/dp/B0899MNR36?tag=rvlifehacks-20)
   Warm white (factory)
+- [Outdoor Cart](https://www.amazon.com/Mac-Sports-Collapsible-Outdoor-Utility/dp/B072JWBP66?tag=rvlifehacks-20)
+  Perfect to store the kids helmets, the griddle cover or shoes outside but
+  covered.
