@@ -15,13 +15,13 @@ Permanent (but removable) roof install with clean cabling and weatherproof Ether
 ## Photos
 
 <p>
-  <img src="../pics/StarlinkRearView.jpg" width="45%">
-  <img src="../pics/StarlinkBehind2ndAnd3rdAC.jpg" width="45%">
+  <img src="../assets/pics/thumbs/StarlinkRearView.jpg" width="45%">
+  <img src="../assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="45%">
 </p>
 
 <p>
-  <img src="../pics/RoofJunctionBoxStarlink.jpg" width="45%">
-  <img src="../pics/RJ45OutdoorConnectionUnderStarlink.jpg" width="45%">
+  <img src="../assets/pics/thumbs/RoofJunctionBoxStarlink.jpg" width="45%">
+  <img src="../assets/pics/thumbs/RJ45OutdoorConnectionUnderStarlink.jpg" width="45%">
 </p>
 
 ## Notes / Lessons

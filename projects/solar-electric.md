@@ -61,11 +61,11 @@ the better algorithm.
 ## Photos
 
 <p>
-  <img src="../pics/SolarPanels.jpg" width="45%">
+  <img src="../assets/pics/thumbs/SolarPanels.jpg" width="45%">
 </p>
 
 <p>
-  <img src="../pics/RoofJunctionBoxForSolarAndStarlink.jpg" width="45%">
+  <img src="../assets/pics/thumbs/RoofJunctionBoxForSolarAndStarlink.jpg" width="45%">
 </p>
 
 ## Notes

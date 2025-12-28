@@ -59,9 +59,9 @@ _As an Amazon Associate I earn from qualifying purchases._
 ### Couch
 
   <p>
-    <img src="pics/LinsyStorageCouch.jpg" width="25%">
-    <img src="pics/LinsyStorageCouchCoverWithHinges.jpg" width="25%">
-    <img src="pics/LinsyStorageCouchSingle.jpg" width="25%">
+    <img src="assets/pics/thumbs/LinsyStorageCouch.jpg" width="25%">
+    <img src="assets/pics/thumbs/LinsyStorageCouchCoverWithHinges.jpg" width="25%">
+    <img src="assets/pics/thumbs/LinsyStorageCouchSingle.jpg" width="25%">
   </p>
 
 - Linsy Home Storage Couch. We have and love the
@@ -107,7 +107,7 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
   Drop-in 12V replacement for the original.
 - [Vent Cover](https://www.amazon.com/dp/B01HCNJDPK?tag=rvlifehacks-20)
 
-  <img src="pics/BathroomVentCover.jpg" width="25%">
+  <img src="assets/pics/thumbs/BathroomVentCover.jpg" width="25%">
 
 - [Laundry Basket](https://www.amazon.com/dp/B0DG1VNT9M?tag=rvlifehacks-20)
   Works fine in the kids bathroom. Pictured below.
@@ -120,7 +120,7 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
   Pictured below.
 - [Hanging Cabinet]() Hang it on the studs
 
-  <img src="pics/BathroomCabinet.jpg" width="25%">
+  <img src="assets/pics/thumbs/BathroomCabinet.jpg" width="25%">
 
 ### Washer
 
@@ -147,7 +147,7 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
 - [Stools](https://www.amazon.com/IBUYKE-Cushion-Upholstered-Entryway-WBD007NG/dp/B0DBHD6DMT?tag=rvlifehacks-20)
   We store three of those under the table.
 
-  <img src="pics/TableAndStools.jpg" width="25%">
+  <img src="assets/pics/thumbs/TableAndStools.jpg" width="25%">
 
 - [Piano Hinges](https://www.amazon.com/Stainless-Continuous-Thickness-Knuckle-Included/dp/B0BR155SHQ?tag=rvlifehacks-20)
 
@@ -189,8 +189,8 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 
 #### Kids Beds
 
-- [Mattress (cut to size)](https://www.amazon.com/Greaton-4-Inch-High-Density-Replacement-Application/dp/B0BXYFHCNY?tag=rvlifehacks-20)
-- [Breathable Mattress Underlay](https://www.amazon.com/Mattress-Breathable-Meshfiber-Ventilation-Aire-Flow/dp/B0DJS3HHQ3?tag=rvlifehacks-20)
+- [Mattress](https://www.amazon.com/Greaton-4-Inch-High-Density-Replacement-Application/dp/B0BXYFHCNY?tag=rvlifehacks-20)
+- [Mattress Mold Protector](https://www.amazon.com/Mattress-Breathable-Meshfiber-Ventilation-Aire-Flow/dp/B0DJS3HHQ3?tag=rvlifehacks-20)
 
 ### Mouse Traps
 
@@ -214,7 +214,7 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 
 - [8dBi antenna](https://www.amazon.com/Antenna-Pigtail-Wireless-Routers-Repeater/dp/B07PBFKJSN?tag=rvlifehacks-20)
 
-  <img src="pics/FurrionWith8dBiAntenna.jpg" width="25%">
+  <img src="assets/pics/thumbs/FurrionWith8dBiAntenna.jpg" width="25%">
 
   We got this one and it works better than the stock antenna, but it would be
   better if the paddle was rotated by 90deg. I use it angled down rather than
@@ -230,30 +230,30 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 - [Replacement Screws for Stand](https://www.amazon.com/Petrirufun-Screws-Blackstone-Stand-Replacement/dp/B0BZ3FJPTY?tag=rvlifehacks-20)
   We replaced about one per year.
 
-  <img src="pics/GriddleStandScrews.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleStandScrews.jpg" width="25%">
 
 - [Wind Guards](https://www.amazon.com/Blackstone-Accessories-MeWeBlue-5018-Compatible/dp/B0BLNDX7L3?tag=rvlifehacks-20)
 
-  <img src="pics/GriddleMagneticHooks.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleMagneticHooks.jpg" width="25%">
 
 - [Gas hose with Quick-Connect](https://www.amazon.com/GASPRO-Propane-Connect-Extension-Pressure/dp/B09XF1M1RG?tag=rvlifehacks-20)
   One through the belly of the trailer and one as extension to the griddle.
 
-  <img src="pics/GriddleQuickConnect.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleQuickConnect.jpg" width="25%">
 
 - [Gas Y Connector](https://www.amazon.com/Propane-Motorhome-Tabletop-Splitter-Disconnect/dp/B0F5ZZS18H?tag=rvlifehacks-20)
   Forks the fridge's quick connect behind the slide-out into an outdoor outlet.
   One quick-connect hose is then pulled through the underbelly to the entrance
   side (see picture above).
 
-  <img src="pics/GriddleQuickConnectY.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleQuickConnectY.jpg" width="25%">
 
 - [Scraper](https://www.amazon.com/Blackstone-Accessories-Barbecue-Stainless-Cleaning/dp/B0DP8TP4WH?tag=rvlifehacks-20)
 - [Cover](https://www.amazon.com/Cover-Blackstone-22-Grill-Water-Resistant/dp/B09V72F8XQ?tag=rvlifehacks-20)
 - [Burger Press](https://www.amazon.com/SHINESTAR-Blackstone-Griddle-Pre-Seasoned-Outdoor/dp/B0CL6PRSGN?tag=rvlifehacks-20)
 - [Magnetic Hooks](https://www.amazon.com/Blackstone-5188-Magentic-Accessories-Stainless/dp/B09R5FT292?tag=rvlifehacks-20)
 
-  <img src="pics/GriddleMagneticHooks.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleMagneticHooks.jpg" width="25%">
 
   The hooks are great but the scraper holder is useless since you can't close
   the lid and it just dirties too quickly. The scraper above works on those
@@ -311,7 +311,7 @@ Onan 5500 Evap
 
 - [Andersen Jack Blocks](https://www.amazon.com/ANDERSEN-Accessories-Stabilizers-Jackstands-Quickjack/dp/B0888SDR63?tag=rvlifehacks-20)
 
-  <img src="pics/LevelingTowStrapsAndAndersenBlocks.jpg" width="25%">
+  <img src="assets/pics/thumbs/LevelingTowStrapsAndAndersenBlocks.jpg" width="25%">
 
   MUST-HAVE TWO 8" ones! Our Momentum has slightly outward-facing leveling jacks
   which is the worst idea ever because since it forms a triangle, as you push up
@@ -364,7 +364,7 @@ Onan 5500 Evap
 - [Tripod Stabilizer](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0DRGVGBD1?tag=rvlifehacks-20)
   Works with the Andersen hitch. For a regular fifth-wheel hitch, use the
 
-  <img src="pics/TripodOnAndersenHitchAdapter.jpg" width="25%">
+  <img src="assets/pics/thumbs/TripodOnAndersenHitchAdapter.jpg" width="25%">
 
   [King Pin variation](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0CL56P9KF?tag=rvlifehacks-20)
   Must-have item for everyone with washer/drying in their front. Nice to have
@@ -374,7 +374,7 @@ Onan 5500 Evap
 
 - [Climbing net](https://www.amazon.com/Bunifa-Climbing-Playground-Stairway-Polyester/dp/B0CJJJ321V?tag=rvlifehacks-20)
 
-  <img src="pics/BedMeshNet.jpg" width="25%">
+  <img src="assets/pics/thumbs/BedMeshNet.jpg" width="25%">
 
 - [Rope-Ball Door stoppers](https://www.amazon.com/Creative-Co-op-DE1586-Nautical-White/dp/B00AU4D9H2?tag=rvlifehacks-20)
 - [Bluetooth Speaker](https://www.amazon.com/Creative-Stage-Portable-Bluetooth-Speaker/dp/B0CHKTDXWP?tag=rvlifehacks-20)

@@ -18,12 +18,12 @@ Indirect decorating lighting on the deck
 ## Photos
 
 <p>
-  <img src="../pics/LEDAlongRampDoors.jpg" width="45%">
-  <img src="../pics/LEDOntoRailing.jpg" width="45%">
+  <img src="../assets/pics/thumbs/LEDAlongRampDoors.jpg" width="45%">
+  <img src="../assets/pics/thumbs/LEDOntoRailing.jpg" width="45%">
 </p>
 
 <p>
-  <img src="../pics/LEDSolderedJunction.jpg" width="45%">
+  <img src="../assets/pics/thumbs/LEDSolderedJunction.jpg" width="45%">
 </p>
 
 ## Notes

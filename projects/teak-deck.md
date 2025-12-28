@@ -19,8 +19,8 @@ exposed to the sun.
 ## Photos
 
 <p>
-  <img src="../pics/TeakDeck.jpg" width="45%">
-  <img src="../pics/TeakDeckAndLEDHinges.jpg" width="45%">
+  <img src="../assets/pics/thumbs/TeakDeck.jpg" width="45%">
+  <img src="../assets/pics/thumbs/TeakDeckAndLEDHinges.jpg" width="45%">
 </p>
 
 ## Notes
