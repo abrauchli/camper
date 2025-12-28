@@ -258,8 +258,15 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
   <img src="assets/pics/thumbs/GriddleStandScrews.jpg" width="25%">
 
 - [Wind Guards](https://www.amazon.com/Blackstone-Accessories-MeWeBlue-5018-Compatible/dp/B0BLNDX7L3?tag=rvlifehacks-20)
+  An absolute must-have to use the griddle with just a little bit of wind. Also saves about 1/3 in LPG.
 
   <img src="assets/pics/thumbs/GriddleMagneticHooks.jpg" width="25%">
+
+- [Self-tapping Screws](https://www.amazon.com/VGBUY-Assortment-Stainless-Drilling-Modified/dp/B0CQ7LYTXD?tag=rvlifehacks-20)
+
+  Always useful. Put one in every wind guard, then you'll never lose them. These
+  have Philips heads. Let me know if you found a good set of self-tapping screws
+  with Robertson (square drive) heads.
 
 - [Gas hose with Quick-Connect](https://www.amazon.com/GASPRO-Propane-Connect-Extension-Pressure/dp/B09XF1M1RG?tag=rvlifehacks-20)
   One through the belly of the trailer and one as extension to the griddle.
