@@ -24,7 +24,7 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 - [Starlink roof install](projects/starlink.md)
 - [Solar setup (Mechanic)](projects/solar-mechanic.md)
 - [Solar setup (Electric)](projects/solar-electric.md)
-- [Boat teak deck on deck](projects/teak-deck.md)
+- [Boat teak deck](projects/teak-deck.md)
 - [LED lighting on deck](projects/deck-leds.md)
 
 ## Item List
