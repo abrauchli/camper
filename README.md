@@ -44,7 +44,7 @@ _As an Amazon Associate I earn from qualifying purchases._
 - [Table](#table)
 - [Starlink](#starlink)
 - [Bike Rack](#bike-rack)
-- [Bed](#bed)
+- [Master Bed](#master-bed)
 - [Kids Beds](#kids-beds)
 - [Mouse Traps](#mouse-traps)
 - [Water](#water)
@@ -205,7 +205,7 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 
 - [4-bike rack](https://www.amazon.com/Bike-Rack-Safeguard-Derailleurs-Waterproof/dp/B0F4X41X8C?tag=rvlifehacks-20)
 
-### Bed
+### Master Bed
 
 - [30" gas struts 150lbs](https://www.amazon.com/Springs-Support-Storage-Toolbox-IAQWE/dp/B0CQSM7WV7?tag=rvlifehacks-20)
   Get less than 150lbs for lighter mattress and/or without latex topper
@@ -216,6 +216,11 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 
 - [Mattress](https://www.amazon.com/Greaton-4-Inch-High-Density-Replacement-Application/dp/B0BXYFHCNY?tag=rvlifehacks-20)
 - [Mattress Mold Protector](https://www.amazon.com/Mattress-Breathable-Meshfiber-Ventilation-Aire-Flow/dp/B0DJS3HHQ3?tag=rvlifehacks-20)
+- [Locking Carabiner Hooks](https://www.amazon.com/KINLINK-Carabiner-Stainless-Caribeener-Caribiniers/dp/B0C7VYQ2S8?tag=rvlifehacks-20) 15 Pack. I also keep one on my key chain.
+- [Climbing net](https://www.amazon.com/Bunifa-Climbing-Playground-Stairway-Polyester/dp/B0CJJJ321V?tag=rvlifehacks-20)
+
+  <img src="assets/pics/thumbs/BedMeshNet.jpg" width="25%">
+
 
 ### Mouse Traps
 
@@ -403,11 +408,6 @@ Onan 5500 Evap
   for everyone else. Measure your height and make sure it's enough. We need some
   leveling blocks in some cases to keep it straight or extend it to the
   necessary height.
-
-- [Climbing net](https://www.amazon.com/Bunifa-Climbing-Playground-Stairway-Polyester/dp/B0CJJJ321V?tag=rvlifehacks-20)
-
-  <img src="assets/pics/thumbs/BedMeshNet.jpg" width="25%">
-
 - [Rope-Ball Door stoppers](https://www.amazon.com/Creative-Co-op-DE1586-Nautical-White/dp/B00AU4D9H2?tag=rvlifehacks-20)
 - [Slim dresser](https://www.amazon.com/Sorbus-Kids-Dresser-Drawers-Organizer/dp/B0DYPZV8TJ?tag=rvlifehacks-20)
 - [Pickup cargo net](https://www.amazon.com/TireTek-Accessories-Heavy-Duty-Stretches-Carabiners/dp/B07ZQP5QG7?tag=rvlifehacks-20)
