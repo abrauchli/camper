@@ -501,6 +501,9 @@ often. Better than the clip breaking off, but a tad tighter would help.
 - [Door Seal Brush Strip](https://www.amazon.com/Weather-Stripping-Sliding-Windows-Backing/dp/B0BVZZSQVD?tag=rvlifehacks-20)
   Seals the bottom of the sliding door
 - [Wallpaper](https://www.amazon.com/HaokHome-96101-1-Wallpaper-Removable-Adhesive/dp/B09KRRBDYS?tag=rvlifehacks-20)
+
+  <img src="assets/pics/thumbs/OfficeFoldableDeskDown.jpg" width="15%">
+
 - [6" Slim Storage Shelf](https://www.amazon.com/dp/B0CX8TW9WX?tag=rvlifehacks-20)
   Next to the couch in the living room
 - [Book Storage bins](https://www.amazon.com/Storex-Linking-Storage-Surface-Assorted/dp/B07SP5KK9H?tag=rvlifehacks-20)
