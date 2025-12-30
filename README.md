@@ -126,7 +126,7 @@ _As an Amazon Associate I earn from qualifying purchases._
 
 ### Office
 
-- [Fire TV Stick](https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9)
+- [Fire TV Stick](https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9?tag=rvlifehacks-20)
   Turn any screen into a Smart TV. Too many ads but works nicely with the
   bluetooth speaker and screen.
 - [Switchable Power Outlet](https://www.amazon.com/3Pack-POWAWINI-Grounded-Electrical-Indicator/dp/B0DS6HZNDB?tag=rvlifehacks-20)
@@ -187,7 +187,7 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
 
 - [Laundry Basket](https://www.amazon.com/dp/B0DG1VNT9M?tag=rvlifehacks-20)
   Works fine in the kids bathroom. Pictured below.
-- [Toilet (white)](https://www.amazon.com/Aqua-Magic-Residence-toilet-Profile-White/dp/B00DPIVZGC&tag=rvlifehacks-20)
+- [Toilet (white)](https://www.amazon.com/Aqua-Magic-Residence-toilet-Profile-White/dp/B00DPIVZGC?tag=rvlifehacks-20)
   Pictured below.
 - [Slim toilet brush](https://www.amazon.com/MR-SIGA-Toilet-Mounted-Compact-Bathroom/dp/B0DMNF2R32?tag=rvlifehacks-20)
   Space-efficient and works great, I'm only worried that a kid might
@@ -347,7 +347,7 @@ Onan 5500 Evap
   Small enough to conveniently store away, big enough to be useful on slopes or
   the truck. The ones with ropes are nice to carry, but the 7$ price difference
   is definitely not justified.
-  [Standard chocks](https://www.amazon.com/Camco-Wheel-Chock-Removal-Trailer/dp/B00K1C1WC2).
+  [Standard chocks](https://www.amazon.com/Camco-Wheel-Chock-Removal-Trailer/dp/B00K1C1WC2?tag=rvlifehacks-20).
 
 - [Ratchet Straps](https://www.amazon.com/DEWALT-DXBC50002-Yellow-Ratchet-Straps/dp/B0BYKDSZQT?tag=rvlifehacks-20)
   Hold the legs together. As described and pictured below with the jack blocks,
