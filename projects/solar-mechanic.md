@@ -13,6 +13,9 @@ Sturdy and road-worthy roof solar install
 ## Materials
 - Solar panels
 - Wires
+- Breakers
+- [DIN Rails](https://www.amazon.com/mxuteuk-Aluminum-Hardware-Components-Mounting/dp/B0DHWP4VGY?tag=rvlifehacks-20)
+  To mount breakers on
 - [10ft 14Ga Unistruts](https://www.homedepot.com/p/Superstrut-10-ft-14-Gauge-Half-Slotted-Metal-Framing-Strut-Channel-Green-Urethane-Powder-Coated-ZB1400HS-10GR-ZB1400HS-10GR/100155787)
 
 ## Mounting

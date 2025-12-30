@@ -1,36 +1,84 @@
-# Camper DIY Projects and Item Reviews
+# Camper DIY Projects and Products
 
-A list of links to products we actually like and use on our 2019 Grand Design
-Momentum 395m RV.
+A collection of projects we did and a list of products we actually like and use
+on our 2019 Grand Design Momentum 395m RV.
 
-**All products listed here have been road-tested for more than 12,000 miles. We
-paid retail prices for all of them and are not sponsored in any way to review
-the products.**
+## Disclaimer
 
-Did we miss something or do you know better alternatives? We'd love to hear from
-you! File an issue or open a pull-request.
+**DISCLAIMER: Projects and products are for educational purpose. Build, buy and
+use at your own risk an peril. No guarantees whatsoever are made, even when
+explicitly stated.**
+
+## Honest Reviews
+
+**All products listed here have been road-tested in good faith for more than
+12,000 miles. We paid retail prices for all of them and are not sponsored in any
+way to review the products.**
 
 ## Table of Contents
 
 - [DIY Projects](#projects)
-- [Item Lists](#item-lists)
+  - [Office / Bedroom](#office-bedroom)
+  - [Living Room](#living-room)
+  - [Roof](#roof)
+  - [Deck](#deck)
+  - [Kids Room / Garage](#kids-room-garage)
+- [RV Product List](#rv-product-list)
 
-Also check out the [RAM 3500 equipment](RAM3500.md).
+Also check out the [RAM 3500 equipment](RAM3500.md) (not just RAM specific).
+
+Did we miss something or do you know better alternatives? We'd love to hear from
+you! File an issue or open a pull-request.
 
 ## DIY Projects
 
 Hands-on RV modifications with photos, install notes, and lessons learned.
 
+### Office / Bedroom
+- [Foldable Office Desk](projects/office-desk.md)
+
+  <img src="assets/pics/thumbs/OfficeFoldableDeskUp.jpg" width="25%">
+
+### Living Room
+- [Dining Table](projects/dining-table.md)
+- [Storage L-Shaped Dining Bench](projects/storage-dining-bench.md)
+
+  <img src="assets/pics/thumbs/TableAndStools.jpg" width="25%">
+
+### Roof
 - [Starlink roof install](projects/starlink.md)
 - [Solar setup (Mechanic)](projects/solar-mechanic.md)
 - [Solar setup (Electric)](projects/solar-electric.md)
+
+  <img src="assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="25%">
+
+- [Roof-Mounted Dump Tote](projects/roof-mounted-dump-tote.md)
+
+  <img src="../assets/pics/thumbs/DumpToteOnUnistrutsOverview.jpg" width="25%">
+
+### Deck
+
 - [Boat teak deck](projects/teak-deck.md)
 - [LED lighting on deck](projects/deck-leds.md)
+- [Acrylic Panel Doors](projects/acrylic-panel-doors.md)
 
-## Item List
+  <img src="assets/pics/thumbs/LEDDeckIlluminated.jpg" width="25%">
+
+### Kids Room / Garage
+
+- [Garage Luxury Vinyl Floor](projects/vinyl-floor.md)
+- [Climbing Wall](projects/climbing-wall.md)
+
+  <img src="../assets/pics/thumbs/ClimbingWall.jpg" width="25%">
+
+- [Loft Access from Garage](projects/garage-loft-entrance.md)
+
+  <img src="../assets/pics/thumbs/LoftOpening.jpg" width="25%">
+
+## RV Product List
 
 The information is free to use whether you use our links or not but if you
-choose to, we'd like to sincerely thank you for supporting this work.
+choose to we would like to sincerely thank you for supporting this work.
 
 _As an Amazon Associate I earn from qualifying purchases._
 
@@ -40,9 +88,6 @@ _As an Amazon Associate I earn from qualifying purchases._
 - [Kitchen](#kitchen)
 - [Bathroom](#bathroom)
 - [Washer](#washer)
-- [Boat Teak Deck](#boat-teak-deck)
-- [Table](#table)
-- [Starlink](#starlink)
 - [Bike Rack](#bike-rack)
 - [Master Bed](#master-bed)
 - [Kids Beds](#kids-beds)
@@ -55,6 +100,8 @@ _As an Amazon Associate I earn from qualifying purchases._
 - [Fridge](#fridge)
 - [Plumbing and Sewage](#plumbing-and-sewage)
 - [Screen Doors](#screen-doors)
+- [Storage](#storage)
+- [Outdoor Toys](#outdoor-toys)
 - [Random Stuff](#random-stuff)
 
 ### Couch
@@ -76,11 +123,6 @@ _As an Amazon Associate I earn from qualifying purchases._
 
 ### Office
 
-- [Office Desk Hinges](https://www.amazon.com/Mac-Sports-Collapsible-Outdoor-Utility/dp/B072JWBP66?tag=rvlifehacks-20)
-  Sturdy hinges for an office-desk
-- [Office Screen Wall Mount](https://www.amazon.com/WALI-Articulating-Monitor-Extension-100x100/dp/B01BCUM766?tag=rvlifehacks-20)
-  Sturdy single-stud mount for the screen. I use a 34" curved Samsung monitor
-  with a built-in USB hub.
 - [Fire TV Stick](https://www.amazon.com/all-new-amazon-fire-tv-stick-4k-max/dp/B0BP9SNVH9)
   Turn any screen into a Smart TV. Too many ads but works nicely with the
   bluetooth speaker and screen.
@@ -115,6 +157,10 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
   little weight on top that keep the napkins from flying away.
 - [Revolving Spice Rack](https://www.amazon.com/Revolving-Kitchen-Organizer-Countertop-Carousel/dp/B09BQYJ66H?tag=rvlifehacks-20)
   We velcro'ed it to the counter and cover it with a Walmart bag for transport.
+- [Trash bin](https://www.amazon.com/StoneSpace-Compost-Kitchen%EF%BC%8CUnder-Kitchen-Can%EF%BC%8CSmall/dp/B0B88BDD9X?tag=rvlifehacks-20)
+  Mounts on the door and recycles Walmart Plastic Bags.
+- [Trash bags](https://www.amazon.com/T-FORING-Gallon-Trash-Bags-Drawstring/dp/B0CZ3JZLDJ?tag=rvlifehacks-20)
+  If you're ever out of Walmart Plastic Bags (like in Colorado)
 
 ### Bathroom
 
@@ -128,6 +174,8 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
   We use those for the shower corners.
 - [Toothbrush Holder](https://www.amazon.com/Oasiteege-Toothbrush-Toothpaste-Organizer-Accessories/dp/B0CTG5JW7G?tag=rvlifehacks-20)
   We use two of those for the kids' toothbrushes and toothpaste.
+- [Toothbrush Holder](https://www.amazon.com/Toothbrush-Bathrooms-Countertop-Toothbrushes-Toothpaste/dp/B0BJKGSJ85?tag=rvlifehacks-20)
+  We use this one in the master bathroom where it stays in the cabinet.
 - [Vent Fan Motor](https://www.amazon.com/dp/B0DPXHTH54?tag=rvlifehacks-20)
   Drop-in 12V replacement for the original.
 - [Vent Cover](https://www.amazon.com/dp/B01HCNJDPK?tag=rvlifehacks-20)
@@ -147,56 +195,16 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
 
   <img src="assets/pics/thumbs/BathroomCabinet.jpg" width="25%">
 
+- [Trash bin](https://www.amazon.com/LYNLOO-1-9-Gallon-Installation-Triple-Seal-Technology/dp/B0D9W8YCYL?tag=rvlifehacks-20)
+
 ### Washer
 
 - [Washer](https://www.amazon.com/Splendide-WDV2200XCD-Combo-Washer-Vented/dp/B004RCYNVO?tag=rvlifehacks-20)
   Washes well and is great on water use. Comparing with others, it seems this
   one uses only about half.
-- [Dicor Lap Sealant](https://www.amazon.com/Dicor-651SANSW-1-Non-Leveling-Ultra-Sealant/dp/B0949J5PQZ?tag=rvlifehacks-20)
+- [Dicor Non-sag Lap Sealant](https://www.amazon.com/Dicor-651SANSW-1-Non-Leveling-Ultra-Sealant/dp/B0949J5PQZ?tag=rvlifehacks-20)
   Use non-sag sealant on the screw holes and the vent cover if you drill the
   hole yourself.
-
-### Boat Teak Deck
-
-- [Primer](https://www.amazon.com/3M-3M23929-94-Primer-Quarts/dp/B07L8KMHVX?tag=rvlifehacks-20)
-- [Floor mat](https://www.amazon.com/OCEANBROAD-Self-Adhesive-Flooring-Non-Slip-MotorBoats/dp/B0BR9WQ9ML?tag=rvlifehacks-20)
-- 4-6" Roller from Home Depot
-
-### Table
-
-- Butcher Block from Home Depot (treated with oil based polyurethane, pic below)
-- [Legs](https://www.amazon.com/Class-Customs-Black-Surface-Plastic/dp/B08562XH7G?tag=rvlifehacks-20)
-  Two-pack, you'll need two. We only use 3 legs for more legroom in the
-  "L-corner" of the bench. We initially tried two legs but that was too wobbly
-  sideways.
-- [Stools](https://www.amazon.com/IBUYKE-Cushion-Upholstered-Entryway-WBD007NG/dp/B0DBHD6DMT?tag=rvlifehacks-20)
-  We store three of those under the table.
-
-  <img src="assets/pics/thumbs/TableAndStools.jpg" width="25%">
-
-- [Piano Hinges](https://www.amazon.com/Stainless-Continuous-Thickness-Knuckle-Included/dp/B0BR155SHQ?tag=rvlifehacks-20)
-
-### Starlink
-
-- Starlink Residential 3rd Gen Standard Dish
-- Starlink Standard Mobility Mount is best for a permanent spot on the RV roof.
-  Then use the kickstand that's included with the standard dish when you're
-  parked right under a tree.
-- [Dicor Lap Sealant](https://www.amazon.com/Dicor-651SANSW-1-Non-Leveling-Ultra-Sealant/dp/B0949J5PQZ?tag=rvlifehacks-20)
-  To seal the roof after mounting the mobility mount with the lag screws
-  (ideally into the roof trusses.) You can use both self-leveling of non-sag.
-  This is the non-sag which is a bit stickier and also works for small repairs
-  on the side of the roof or for sealing a vent cover for the washer in the side
-  of the RV.
-- Optionally, the X-frame base might make it a bit easier than the kickstand to
-  get optimal orientation. We never had need for this though.
-- [Outdoor RJ45 cable CAT6 or more](https://www.amazon.com/Ethernet-Unshielded-Waterproof-Resistant-Internet/dp/B0B14CRJL1?tag=rvlifehacks-20)
-- [Waterproof Junction Box](https://www.amazon.com/Dustproof-Waterproof-Universal-Electrical-125x86x62mm/dp/B077QM9VM9?tag=rvlifehacks-20)
-- [Starlink subscription referral](https://starlink.com/residential?referral=RC-3762258-55110-60&app_source=share)
-  A free month of Starlink. We wanted to go with cellular and Starlink only when
-  out of cell range but we blew through the 50G in three days, so now we always
-  use the Unlimited. Not cheap but definitely worth it. Read my
-  [Starlink Review](https://bitcreed.us/bitblog/starlink-on-the-road).
 
 ### Bike Rack
 
@@ -216,11 +224,11 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 
 - [Mattress](https://www.amazon.com/Greaton-4-Inch-High-Density-Replacement-Application/dp/B0BXYFHCNY?tag=rvlifehacks-20)
 - [Mattress Mold Protector](https://www.amazon.com/Mattress-Breathable-Meshfiber-Ventilation-Aire-Flow/dp/B0DJS3HHQ3?tag=rvlifehacks-20)
-- [Locking Carabiner Hooks](https://www.amazon.com/KINLINK-Carabiner-Stainless-Caribeener-Caribiniers/dp/B0C7VYQ2S8?tag=rvlifehacks-20) 15 Pack. I also keep one on my key chain.
+- [Locking Carabiner Hooks](https://www.amazon.com/KINLINK-Carabiner-Stainless-Caribeener-Caribiniers/dp/B0C7VYQ2S8?tag=rvlifehacks-20)
+  15 Pack. I also keep one on my key chain.
 - [Climbing net](https://www.amazon.com/Bunifa-Climbing-Playground-Stairway-Polyester/dp/B0CJJJ321V?tag=rvlifehacks-20)
 
   <img src="assets/pics/thumbs/BedMeshNet.jpg" width="25%">
-
 
 ### Mouse Traps
 
@@ -263,7 +271,8 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
   <img src="assets/pics/thumbs/GriddleStandScrews.jpg" width="25%">
 
 - [Wind Guards](https://www.amazon.com/Blackstone-Accessories-MeWeBlue-5018-Compatible/dp/B0BLNDX7L3?tag=rvlifehacks-20)
-  An absolute must-have to use the griddle with just a little bit of wind. Also saves about 1/3 in LPG.
+  An absolute must-have to use the griddle with just a little bit of wind. Also
+  saves about 1/3 in LPG.
 
   <img src="assets/pics/thumbs/GriddleMagneticHooks.jpg" width="25%">
 
@@ -396,6 +405,56 @@ Onan 5500 Evap
 - [Screen Repair Kit](https://www.amazon.com/HOMMEE-Screen-Repair-Kit-Installing/dp/B0B1B3VTMJ?tag=rvlifehacks-20)
   Great tool to push the spline back in when it gets loose.
 
+### Storage
+
+Under the bed storage bins. The bins are good but the clips come off a bit too
+often. Better than the clip breaking off, but a tad tighter would help.
+
+- [Small 12Qt Storage Bins](https://www.amazon.com/Amazon-Basics-Stackable-Plastic-Latching/dp/B09V5L93P3?tag=rvlifehacks-20)
+- [Medium 32Qt Storage Bins](https://www.amazon.com/IRIS-USA-Plastic-Container-Latching/dp/B0BRFJ5QRK?tag=rvlifehacks-20)
+- [Large 72Qt Storage Bins](https://www.amazon.com/IRIS-USA-Plastic-Container-Latching/dp/B0BRFJ5QRK?tag=rvlifehacks-20)
+
+### Generic Maintenance and Repairs
+
+- [Butt connectors](https://www.amazon.com/TICONN-Connectors-Waterproof-Electrical-Automotive/dp/B086Z3H4X8?tag=rvlifehacks-20)
+  for smaller wires. Used it on fridge, trailer lights, 4" roof lights, ...
+- [Wire brushes for 1/4" impact](https://www.amazon.com/Carbon-Rocaris-Removal-Corrosion-Surfaces/dp/B0BLGKLLCG?tag=rvlifehacks-20)
+  Removed some rust from the trailer's I-Beam that I resprayed or to clean bolts
+  on the car, ...
+- [BA15S Bayonet LED](https://www.amazon.com/Contact-Waterproof-Outdoor-Landscape-Lighting/dp/B07DYQ528T?tag=rvlifehacks-20)
+  Replacement for burnt out filament-bulb flood light. We used cold white for
+  the flood light because it's brighter. Check picture which you prefer.
+
+  <img src="assets/pics/thumbs/CurtainsAndWarmColdLights.jpg" width="25%">
+
+- [Ladder Safety Pins](https://www.amazon.com/Release-Diameter-Overall-Stainless-Hardware/dp/B0D2MF7SY2?tag=rvlifehacks-20)
+  Great because they're actual stainless steel that doesn't rust
+
+### Outdoor Toys
+
+- [Inflatable Stand-Up Paddleboard](https://www.amazon.com/Roc-Inflatable-Premium-Accessories-Non-Slip/dp/B0CCDJTSXC/145-2059997-6840361?tag=rvlifehacks-20)
+  Great paddleboard. Very happy with it: feels sturdy on the water, durable,
+  non-slip and comes with paddles for SUP and kayak styles.
+- [Inflatable Kayak](https://www.amazon.com/Hydro-Force-126-39-Rapid-Kayak/dp/B09X26R446?tag=rvlifehacks-20)
+  One of the few inflatable 3-seat kayaks. Seems the best of its class but not
+  satisfactory enough for us. Noticeable drag from slight deflation after an
+  hour of use. Would not buy again but go with a second SUP instead or a
+  hard-shell that costs twice as much.
+
+  <img src="assets/pics/thumbs/InflatablePaddleBoardAndKayak.jpg" width="25%">
+
+- [Auto-Shutoff Pump](https://www.amazon.com/Paddleboard-Professional-Compressor-Deflation-Inflatables/dp/B0CS6HXQPH?tag=rvlifehacks-20)
+  Pump with set-point and auto-shutoff. Perfect for the SUP. Takes about
+  10-15min for the SUP. Used many times, comes with different adapters that work
+  for both the kayak and the SUP. Handles the 15psi SUP perfectly. Plugs into
+  the car's 12V cigarette lighter socket.
+- [Outdoor Cart](https://www.amazon.com/Mac-Sports-Collapsible-Outdoor-Utility/dp/B072JWBP66?tag=rvlifehacks-20)
+  Perfect to store the kids helmets, the griddle cover or shoes outside but
+  covered. When the front is too low, it fits under the slide-out.
+
+  <img src="assets/pics/thumbs/CartOut.jpg" width="25%">
+  <img src="assets/pics/thumbs/CartIn.jpg" width="25%">
+
 ### Random Stuff
 
 - [Tripod Stabilizer](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0DRGVGBD1?tag=rvlifehacks-20)
@@ -408,12 +467,13 @@ Onan 5500 Evap
   for everyone else. Measure your height and make sure it's enough. We need some
   leveling blocks in some cases to keep it straight or extend it to the
   necessary height.
+
 - [Rope-Ball Door stoppers](https://www.amazon.com/Creative-Co-op-DE1586-Nautical-White/dp/B00AU4D9H2?tag=rvlifehacks-20)
 - [Slim dresser](https://www.amazon.com/Sorbus-Kids-Dresser-Drawers-Organizer/dp/B0DYPZV8TJ?tag=rvlifehacks-20)
-- [Pickup cargo net](https://www.amazon.com/TireTek-Accessories-Heavy-Duty-Stretches-Carabiners/dp/B07ZQP5QG7?tag=rvlifehacks-20)
 - [Outdoor rug](https://www.amazon.com/HEBE-Outdoor-Waterproof-Reversible-Backyard/dp/B0CKVCWYFX?tag=rvlifehacks-20)
   Rug works fine, USB broke off after less than a handful of uses.
 - [RV Propane Regulator](https://www.amazon.com/Fairview-GR-9984-Automatic-Changeover-Regulator/dp/B0CJL6M1S4?tag=rvlifehacks-20)
+  Ours started leaking and this is a drop-in replacement.
 - [Drain Valve Lubricant](https://www.amazon.com/dp/B000BGK2L0?tag=rvlifehacks-20)
   Only use on black tanks and if valve gets sticky. Don't use as preventive
   measure. This one is water-soluble and doesn't contain silicones.
@@ -426,8 +486,31 @@ Onan 5500 Evap
   Lifesaver for little roof tears after scraping branches. Careful, once it's on
   it stays and will not come off. We also use it to reinforce the side of the
   awning fabric against potential tears.
+
+  <img src="assets/pics/thumbs/Eternabond.jpg" width="25%">
+
 - [Spare ceiling lights 4.5"](https://www.amazon.com/Homdec-4-5Inch-Recessed-Interior-Motorhome/dp/B0899MNR36?tag=rvlifehacks-20)
   Warm white (factory)
-- [Outdoor Cart](https://www.amazon.com/Mac-Sports-Collapsible-Outdoor-Utility/dp/B072JWBP66?tag=rvlifehacks-20)
-  Perfect to store the kids helmets, the griddle cover or shoes outside but
-  covered.
+- [Painbrushes for Epoxy](https://www.amazon.com/Bates-Brushes-Natural-Bristle-Painting/dp/B0BFFYRX23?tag=rvlifehacks-20)
+- [Door Seal Brush Strip](https://www.amazon.com/Weather-Stripping-Sliding-Windows-Backing/dp/B0BVZZSQVD?tag=rvlifehacks-20)
+  Seals the bottom of the sliding door
+- [Wallpaper](https://www.amazon.com/HaokHome-96101-1-Wallpaper-Removable-Adhesive/dp/B09KRRBDYS?tag=rvlifehacks-20)
+- [6" Slim Storage Shelf](https://www.amazon.com/dp/B0CX8TW9WX?tag=rvlifehacks-20)
+  Next to the couch in the living room
+- [Book Storage bins](https://www.amazon.com/Storex-Linking-Storage-Surface-Assorted/dp/B07SP5KK9H?tag=rvlifehacks-20)
+  Fits the 6" shelf. Great for the homeschool workbook collection.
+- [Magsafe Phone Holder/Charger](https://www.amazon.com/LISEN-Magsafe-Magnetic-Wireless-Charging/dp/B0CQPHLQYH?tag=rvlifehacks-20)
+  We got one on the driver and one on the passenger side of the pickup. Needs a
+  Magsafe case (e.g.
+  [Case for Pixel 7](https://www.amazon.com/FNDMIL-Compatible-Anti-Fingerprint-Shockproof-Translucent/dp/B0C2C3GTDC?tag=rvlifehacks-20))
+  if it's not an iPhone with magsafe.
+- [Universal USB Charging Cable](https://www.amazon.com/ASICEN-Retractable-Lightning-Charging-Blackberry/dp/B074CW4QTQ?tag=rvlifehacks-20)
+  Non messy cable that rolls up. Very sturdy, we had those for over two years
+  around youger kids. Not for data transfer but very handy for anything not
+  fast-charging. Especially if you have both Androids and iPhones. Batteries
+  live longer if you don't fast-charge them all the time anyway.
+- [Vacuum Extensions](https://www.amazon.com/ALL-PARTS-ETC-Accessories-Attachments/dp/B081ZG9WYR?tag=rvlifehacks-20)
+  For the built-in vacuum. Ours were missing when we bought the trailer.
+- [Vacuum Bags](https://www.amazon.com/InterVac-Design-Corp-Dust-Y11-5/dp/B00XNNQMI0?tag=rvlifehacks-20)
+  For the built-in vacuum. Reusable a few times if you're willing to pull out
+  the dirt.
