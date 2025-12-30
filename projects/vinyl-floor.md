@@ -31,7 +31,7 @@ Flat homey looking floor instead of toy garage floor
 - Use the hole saw to drill a hole into the beams to have some air movement
   underneath and outwards.
 
-  <img src="assets/pics/thumbs/DeckDoorSealBrushOpen.jpg" width="25%">
+  <img src="../assets/pics/thumbs/DeckDoorSealBrushOpen.jpg" width="25%">
 
 - Treat the outward facing "stair step" beam with Polyurethane since shoes will
   eventually hit it.

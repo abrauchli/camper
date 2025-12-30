@@ -1,5 +1,28 @@
 # Custom-Built Storage L-Bench
 
+- Time: 2-3 days
+- Money: 100$
+
+## Goal
+
+Create enough sitting space for six people around the table while maximizing
+convenient storage options.
+
+## Photos
+
+<p>
+  <img src="../assets/pics/thumbs/TableAndStools.jpg" width="45%">
+  <img src="../assets/pics/thumbs/StorageLBenchBack.jpg" width="45%">
+</p>
+<p>
+  <img src="../assets/pics/thumbs/StorageLBenchOpen.jpg" width="45%">
+  <img src="../assets/pics/thumbs/StorageLBenchFront.jpg" width="45%">
+</p>
+<p>
+  <img src="../assets/pics/thumbs/StorageLBenchMiddle.jpg" width="45%">
+  <img src="../assets/pics/thumbs/StorageLBenchBottomCutout.jpg" width="45%">
+</p>
+
 ## Materials
 
 - 2"x2" Framing

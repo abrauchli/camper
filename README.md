@@ -5,8 +5,8 @@ on our 2019 Grand Design Momentum 395m RV.
 
 ## Disclaimer
 
-**DISCLAIMER: Projects and products are for educational purpose. Build, buy and
-use at your own risk an peril. No guarantees whatsoever are made, even when
+**⚠ DISCLAIMER: Projects and products are for educational purpose. Build, buy
+and use at your own risk and peril. No guarantees whatsoever are made, even when
 explicitly stated.**
 
 ## Honest Reviews
@@ -35,26 +35,29 @@ you! File an issue or open a pull-request.
 Hands-on RV modifications with photos, install notes, and lessons learned.
 
 ### Office / Bedroom
+
 - [Foldable Office Desk](projects/office-desk.md)
 
-  <img src="assets/pics/thumbs/OfficeFoldableDeskUp.jpg" width="25%">
+  <img src="assets/pics/thumbs/OfficeFoldableDeskUp.jpg" width="15%">
 
 ### Living Room
+
 - [Dining Table](projects/dining-table.md)
 - [Storage L-Shaped Dining Bench](projects/storage-dining-bench.md)
 
-  <img src="assets/pics/thumbs/TableAndStools.jpg" width="25%">
+  <img src="assets/pics/thumbs/TableAndStools.jpg" width="15%">
 
 ### Roof
+
 - [Starlink roof install](projects/starlink.md)
 - [Solar setup (Mechanic)](projects/solar-mechanic.md)
 - [Solar setup (Electric)](projects/solar-electric.md)
 
-  <img src="assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="25%">
+  <img src="assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="15%">
 
 - [Roof-Mounted Dump Tote](projects/roof-mounted-dump-tote.md)
 
-  <img src="../assets/pics/thumbs/DumpToteOnUnistrutsOverview.jpg" width="25%">
+  <img src="assets/pics/thumbs/DumpToteOnUnistrutsOverview.jpg" width="15%">
 
 ### Deck
 
@@ -62,18 +65,18 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 - [LED lighting on deck](projects/deck-leds.md)
 - [Acrylic Panel Doors](projects/acrylic-panel-doors.md)
 
-  <img src="assets/pics/thumbs/LEDDeckIlluminated.jpg" width="25%">
+  <img src="assets/pics/thumbs/LEDDeckIlluminated.jpg" width="15%">
 
 ### Kids Room / Garage
 
 - [Garage Luxury Vinyl Floor](projects/vinyl-floor.md)
 - [Climbing Wall](projects/climbing-wall.md)
 
-  <img src="../assets/pics/thumbs/ClimbingWall.jpg" width="25%">
+  <img src="assets/pics/thumbs/ClimbingWall.jpg" width="15%">
 
 - [Loft Access from Garage](projects/garage-loft-entrance.md)
 
-  <img src="../assets/pics/thumbs/LoftOpening.jpg" width="25%">
+  <img src="assets/pics/thumbs/LoftOpening.jpg" width="15%">
 
 ## RV Product List
 
@@ -107,9 +110,9 @@ _As an Amazon Associate I earn from qualifying purchases._
 ### Couch
 
   <p>
-    <img src="assets/pics/thumbs/LinsyStorageCouch.jpg" width="25%">
-    <img src="assets/pics/thumbs/LinsyStorageCouchCoverWithHinges.jpg" width="25%">
-    <img src="assets/pics/thumbs/LinsyStorageCouchSingle.jpg" width="25%">
+    <img src="assets/pics/thumbs/LinsyStorageCouch.jpg" width="15%">
+    <img src="assets/pics/thumbs/LinsyStorageCouchCoverWithHinges.jpg" width="15%">
+    <img src="assets/pics/thumbs/LinsyStorageCouchSingle.jpg" width="15%">
   </p>
 
 - Linsy Home Storage Couch. We have and love the
@@ -180,7 +183,7 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
   Drop-in 12V replacement for the original.
 - [Vent Cover](https://www.amazon.com/dp/B01HCNJDPK?tag=rvlifehacks-20)
 
-  <img src="assets/pics/thumbs/BathroomVentCover.jpg" width="25%">
+  <img src="assets/pics/thumbs/BathroomVentCover.jpg" width="15%">
 
 - [Laundry Basket](https://www.amazon.com/dp/B0DG1VNT9M?tag=rvlifehacks-20)
   Works fine in the kids bathroom. Pictured below.
@@ -193,7 +196,7 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
   Pictured below.
 - [Hanging Cabinet]() Hang it on the studs
 
-  <img src="assets/pics/thumbs/BathroomCabinet.jpg" width="25%">
+  <img src="assets/pics/thumbs/BathroomCabinet.jpg" width="15%">
 
 - [Trash bin](https://www.amazon.com/LYNLOO-1-9-Gallon-Installation-Triple-Seal-Technology/dp/B0D9W8YCYL?tag=rvlifehacks-20)
 
@@ -228,7 +231,7 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
   15 Pack. I also keep one on my key chain.
 - [Climbing net](https://www.amazon.com/Bunifa-Climbing-Playground-Stairway-Polyester/dp/B0CJJJ321V?tag=rvlifehacks-20)
 
-  <img src="assets/pics/thumbs/BedMeshNet.jpg" width="25%">
+  <img src="assets/pics/thumbs/BedMeshNet.jpg" width="15%">
 
 ### Mouse Traps
 
@@ -252,7 +255,7 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 
 - [8dBi antenna](https://www.amazon.com/Antenna-Pigtail-Wireless-Routers-Repeater/dp/B07PBFKJSN?tag=rvlifehacks-20)
 
-  <img src="assets/pics/thumbs/FurrionWith8dBiAntenna.jpg" width="25%">
+  <img src="assets/pics/thumbs/FurrionWith8dBiAntenna.jpg" width="15%">
 
   We got this one and it works better than the stock antenna, but it would be
   better if the paddle was rotated by 90deg. I use it angled down rather than
@@ -268,13 +271,13 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 - [Replacement Screws for Stand](https://www.amazon.com/Petrirufun-Screws-Blackstone-Stand-Replacement/dp/B0BZ3FJPTY?tag=rvlifehacks-20)
   We replaced about one per year.
 
-  <img src="assets/pics/thumbs/GriddleStandScrews.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleStandScrews.jpg" width="15%">
 
 - [Wind Guards](https://www.amazon.com/Blackstone-Accessories-MeWeBlue-5018-Compatible/dp/B0BLNDX7L3?tag=rvlifehacks-20)
   An absolute must-have to use the griddle with just a little bit of wind. Also
   saves about 1/3 in LPG.
 
-  <img src="assets/pics/thumbs/GriddleMagneticHooks.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleMagneticHooks.jpg" width="15%">
 
 - [Self-tapping Screws](https://www.amazon.com/VGBUY-Assortment-Stainless-Drilling-Modified/dp/B0CQ7LYTXD?tag=rvlifehacks-20)
 
@@ -285,21 +288,21 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
 - [Gas hose with Quick-Connect](https://www.amazon.com/GASPRO-Propane-Connect-Extension-Pressure/dp/B09XF1M1RG?tag=rvlifehacks-20)
   One through the belly of the trailer and one as extension to the griddle.
 
-  <img src="assets/pics/thumbs/GriddleQuickConnect.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleQuickConnect.jpg" width="15%">
 
 - [Gas Y Connector](https://www.amazon.com/Propane-Motorhome-Tabletop-Splitter-Disconnect/dp/B0F5ZZS18H?tag=rvlifehacks-20)
   Forks the fridge's quick connect behind the slide-out into an outdoor outlet.
   One quick-connect hose is then pulled through the underbelly to the entrance
   side (see picture above).
 
-  <img src="assets/pics/thumbs/GriddleQuickConnectY.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleQuickConnectY.jpg" width="15%">
 
 - [Scraper](https://www.amazon.com/Blackstone-Accessories-Barbecue-Stainless-Cleaning/dp/B0DP8TP4WH?tag=rvlifehacks-20)
 - [Cover](https://www.amazon.com/Cover-Blackstone-22-Grill-Water-Resistant/dp/B09V72F8XQ?tag=rvlifehacks-20)
 - [Burger Press](https://www.amazon.com/SHINESTAR-Blackstone-Griddle-Pre-Seasoned-Outdoor/dp/B0CL6PRSGN?tag=rvlifehacks-20)
 - [Magnetic Hooks](https://www.amazon.com/Blackstone-5188-Magentic-Accessories-Stainless/dp/B09R5FT292?tag=rvlifehacks-20)
 
-  <img src="assets/pics/thumbs/GriddleMagneticHooks.jpg" width="25%">
+  <img src="assets/pics/thumbs/GriddleMagneticHooks.jpg" width="15%">
 
   The hooks are great but the scraper holder is useless since you can't close
   the lid and it just dirties too quickly. The scraper above works on those
@@ -357,7 +360,7 @@ Onan 5500 Evap
 
 - [Andersen Jack Blocks](https://www.amazon.com/ANDERSEN-Accessories-Stabilizers-Jackstands-Quickjack/dp/B0888SDR63?tag=rvlifehacks-20)
 
-  <img src="assets/pics/thumbs/LevelingTowStrapsAndAndersenBlocks.jpg" width="25%">
+  <img src="assets/pics/thumbs/LevelingTowStrapsAndAndersenBlocks.jpg" width="15%">
 
   MUST-HAVE TWO 8" ones! Our Momentum has slightly outward-facing leveling jacks
   which is the worst idea ever because since it forms a triangle, as you push up
@@ -399,6 +402,9 @@ Onan 5500 Evap
 - [Screen Defender for 30" Door](https://www.amazon.com/Lippert-Components-859794-Defender-Protector/dp/B086HJRRRS?tag=rvlifehacks-20)
   One for the front and one for the back door. Great with little kids. Also
   works for dogs and cats that don't jump above the door handle.
+
+  <img src="assets/pics/thumbs/DoorScreenGuard.jpg" width="15%">
+
 - [Screen Repair Tape](https://www.amazon.com/Grey-30-FT-Adhesive-Fiberglass/dp/B0BYZ7XBSG?tag=rvlifehacks-20)
   Not as pretty as replacing the whole screen but it works really well and
   doesn't look too bad.
@@ -425,7 +431,7 @@ often. Better than the clip breaking off, but a tad tighter would help.
   Replacement for burnt out filament-bulb flood light. We used cold white for
   the flood light because it's brighter. Check picture which you prefer.
 
-  <img src="assets/pics/thumbs/CurtainsAndWarmColdLights.jpg" width="25%">
+  <img src="assets/pics/thumbs/CurtainsAndWarmColdLights.jpg" width="15%">
 
 - [Ladder Safety Pins](https://www.amazon.com/Release-Diameter-Overall-Stainless-Hardware/dp/B0D2MF7SY2?tag=rvlifehacks-20)
   Great because they're actual stainless steel that doesn't rust
@@ -441,7 +447,7 @@ often. Better than the clip breaking off, but a tad tighter would help.
   hour of use. Would not buy again but go with a second SUP instead or a
   hard-shell that costs twice as much.
 
-  <img src="assets/pics/thumbs/InflatablePaddleBoardAndKayak.jpg" width="25%">
+  <img src="assets/pics/thumbs/InflatablePaddleBoardAndKayak.jpg" width="15%">
 
 - [Auto-Shutoff Pump](https://www.amazon.com/Paddleboard-Professional-Compressor-Deflation-Inflatables/dp/B0CS6HXQPH?tag=rvlifehacks-20)
   Pump with set-point and auto-shutoff. Perfect for the SUP. Takes about
@@ -452,15 +458,15 @@ often. Better than the clip breaking off, but a tad tighter would help.
   Perfect to store the kids helmets, the griddle cover or shoes outside but
   covered. When the front is too low, it fits under the slide-out.
 
-  <img src="assets/pics/thumbs/CartOut.jpg" width="25%">
-  <img src="assets/pics/thumbs/CartIn.jpg" width="25%">
+  <img src="assets/pics/thumbs/CartOut.jpg" width="15%">
+  <img src="assets/pics/thumbs/CartIn.jpg" width="15%">
 
 ### Random Stuff
 
 - [Tripod Stabilizer](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0DRGVGBD1?tag=rvlifehacks-20)
   Works with the Andersen hitch. For a regular fifth-wheel hitch, use the
 
-  <img src="assets/pics/thumbs/TripodOnAndersenHitchAdapter.jpg" width="25%">
+  <img src="assets/pics/thumbs/TripodOnAndersenHitchAdapter.jpg" width="15%">
 
   [King Pin variation](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0CL56P9KF?tag=rvlifehacks-20)
   Must-have item for everyone with washer/drying in their front. Nice to have
@@ -487,7 +493,7 @@ often. Better than the clip breaking off, but a tad tighter would help.
   it stays and will not come off. We also use it to reinforce the side of the
   awning fabric against potential tears.
 
-  <img src="assets/pics/thumbs/Eternabond.jpg" width="25%">
+  <img src="assets/pics/thumbs/Eternabond.jpg" width="15%">
 
 - [Spare ceiling lights 4.5"](https://www.amazon.com/Homdec-4-5Inch-Recessed-Interior-Motorhome/dp/B0899MNR36?tag=rvlifehacks-20)
   Warm white (factory)
@@ -502,8 +508,12 @@ often. Better than the clip breaking off, but a tad tighter would help.
 - [Magsafe Phone Holder/Charger](https://www.amazon.com/LISEN-Magsafe-Magnetic-Wireless-Charging/dp/B0CQPHLQYH?tag=rvlifehacks-20)
   We got one on the driver and one on the passenger side of the pickup. Needs a
   Magsafe case (e.g.
+
+  <img src="assets/pics/thumbs/MagsafeMount.jpg" width="15%">
+
   [Case for Pixel 7](https://www.amazon.com/FNDMIL-Compatible-Anti-Fingerprint-Shockproof-Translucent/dp/B0C2C3GTDC?tag=rvlifehacks-20))
   if it's not an iPhone with magsafe.
+
 - [Universal USB Charging Cable](https://www.amazon.com/ASICEN-Retractable-Lightning-Charging-Blackberry/dp/B074CW4QTQ?tag=rvlifehacks-20)
   Non messy cable that rolls up. Very sturdy, we had those for over two years
   around youger kids. Not for data transfer but very handy for anything not
