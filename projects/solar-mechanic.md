@@ -10,6 +10,11 @@ This covers the mechanical aspects of the solar install. See
 
 Sturdy and road-worthy roof solar install
 
+## Materials
+- Solar panels
+- Wires
+- [10ft 14Ga Unistruts](https://www.homedepot.com/p/Superstrut-10-ft-14-Gauge-Half-Slotted-Metal-Framing-Strut-Channel-Green-Urethane-Powder-Coated-ZB1400HS-10GR-ZB1400HS-10GR/100155787)
+
 ## Mounting
 
 - Panels clamped to Unistrut

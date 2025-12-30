@@ -7,6 +7,12 @@
 Non-slip, barefoot-friendly ramp surface that doesn't burn your feet when
 exposed to the sun.
 
+## Materials
+
+- [Floor mat](https://www.amazon.com/OCEANBROAD-Self-Adhesive-Flooring-Non-Slip-MotorBoats/dp/B0BR9WQ9ML?tag=rvlifehacks-20)
+- [Primer](https://www.amazon.com/3M-3M23929-94-Primer-Quarts/dp/B07L8KMHVX?tag=rvlifehacks-20)
+- 4-6" Roller from Home Depot
+
 ## Process
 - Leave teak mat rolled out flat in the sun for a few days to let the material
   shrink to avoid gaps. Leaving it rolled out will also make it easier to
