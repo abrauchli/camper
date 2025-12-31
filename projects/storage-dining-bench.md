@@ -20,8 +20,13 @@ convenient storage options.
 </p>
 <p>
   <img src="../assets/pics/thumbs/StorageLBenchMiddle.jpg" width="45%">
+  <img src="../assets/pics/thumbs/StorageLBenchMiddleTwoSections.jpg" width="45%">
+</p>
+</p>
+  <img src="../assets/pics/thumbs/StorageLBench.jpg" width="45%">
   <img src="../assets/pics/thumbs/StorageLBenchBottomCutout.jpg" width="45%">
 </p>
+<p>
 
 ## Materials
 

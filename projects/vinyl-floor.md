@@ -7,6 +7,17 @@
 
 Flat homey looking floor instead of toy garage floor
 
+## Photos
+
+<p>
+  <img src="../assets/pics/thumbs/GarageFloorLevelers.jpg" width="45%">
+  <img src="../assets/pics/thumbs/GarageFloorWIP.jpg" width="45%">
+</p>
+<p>
+  <img src="../assets/pics/thumbs/GarageFloorToilet.jpg" width="45%">
+  <img src="../assets/pics/thumbs/GarageKidsRoom.jpg" width="45%">
+</p>
+
 ## Materials
 
 - [Floor Underlayment](https://www.homedepot.com/p/Pergo-FloorMate-100-sq-ft-4-ft-x-25-ft-x-118-11-mm-T-Premium-Foam-Underlayment-for-Laminate-Engineered-Hardwood-PERFLRMTE/306749188)

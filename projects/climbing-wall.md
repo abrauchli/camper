@@ -13,6 +13,7 @@ adults while still allowing the ladder as a backup.
 ## Photos
 
 <p>
+  <img src="../assets/pics/thumbs/GarageKidsRoom.jpg" width="45%">
   <img src="../assets/pics/thumbs/ClimbingWall.jpg" width="45%">
 </p>
 
@@ -31,6 +32,9 @@ adults while still allowing the ladder as a backup.
 - [Climbing Grips with bolts and T-Nuts](https://www.amazon.com/KINSPORY-Shape-Climbing-Outdoor-Wooden/dp/B07BJZTWGR?tag=rvlifehacks-20)
   This product seems to be similar to what we have, but **we have **not** tested
   this product.** Double-check screw length with desired board.\*\*
+- [Climbing net](https://www.amazon.com/Bunifa-Climbing-Playground-Stairway-Polyester/dp/B0CJJJ321V?tag=rvlifehacks-20)
+  We had another one before this one with natural fibres but it got hairy and
+  started breaking under load. This one seems sturdier and doesn't shed.
 
 ### Sidewall around Washer
 

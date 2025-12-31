@@ -14,6 +14,17 @@ electric needs of a family while boon-docking for about a week.
 
 ## Photos
 
+The first pic shows the battery bay before most work. There's still a lead-acid
+battery in which is now gone. The generator (gray cable in the back) still goes
+into the wiring box that leads to the underbelly. But the 3/4" plywood board
+that will hold the shunts, fuse and main disconnect, is already attached to the
+generator bay (self tapping screws).
+
+<p>
+  <img src="../assets/pics/thumbs/SolarBatteryBayBefore.jpg" width="45%">
+  <img src="../assets/pics/thumbs/SolarVictronInverterAC.jpg" width="45%">
+</p>
+
 ## Material
 
 ### Devices
@@ -165,6 +176,11 @@ the better algorithm.
   the same time, you'll route the output from the inverter into the panel where
   you took out the transfer switch output. You can probably reuse the RV wires
   for that if the inverter is not too far off. It worked on mine.
+
+  <img src="../assets/pics/thumbs/SolarRewiredATS.jpg" width="45%">
+
+  Rewired transfer switch.
+
 - With a 12V setup you'll also need to disconnect the 12V DC battery charger
   that connects to the 110V AC since that charger is designed for lead-acid/AGM
   batteries and not Lithium Iron Phosphate (LiFePo4) batteries. I use that now

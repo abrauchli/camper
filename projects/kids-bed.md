@@ -13,10 +13,12 @@ and a little spacer in between for water bottles, books or toys.
 <p>
   <img src="../assets/pics/thumbs/HappiJacKingBedAndMeshNet.jpg" width="45%">
   <img src="../assets/pics/thumbs/HappiJacBedMount.jpg" width="45%">
-  <img src="../assets/pics/thumbs/HappiJacNetHook.jpg" width="45%">
 </p>
 <p>
+  <img src="../assets/pics/thumbs/HappiJacNetHook.jpg" width="45%">
   <img src="../assets/pics/thumbs/HappiJacBedMoldProtector.jpg" width="45%">
+</p>
+<p>
   <img src="../assets/pics/thumbs/HappiJacBedSideSpace.jpg" width="45%">
   <img src="../assets/pics/thumbs/HappiJacBedMattressAndSpacer.jpg" width="45%">
 </p>
@@ -73,3 +75,5 @@ and a little spacer in between for water bottles, books or toys.
   - For the plywood board, measure out the holes in one section and create a
     cardboard template between two supporting beams. Then reuse that for all
     sections for an even hole pattern.
+
+    <img src="../assets/pics/thumbs/HappiJacBedHoleSaw.jpg" width="45%">

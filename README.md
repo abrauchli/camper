@@ -205,6 +205,9 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
 - [Washer](https://www.amazon.com/Splendide-WDV2200XCD-Combo-Washer-Vented/dp/B004RCYNVO?tag=rvlifehacks-20)
   Washes well and is great on water use. Comparing with others, it seems this
   one uses only about half.
+
+  <img src="assets/pics/thumbs/GarageKidsRoom.jpg" width="15%">
+
 - [Dicor Non-sag Lap Sealant](https://www.amazon.com/Dicor-651SANSW-1-Non-Leveling-Ultra-Sealant/dp/B0949J5PQZ?tag=rvlifehacks-20)
   Use non-sag sealant on the screw holes and the vent cover if you drill the
   vent hole through the camper yourself.
@@ -339,7 +342,11 @@ Onan 5500 Evap
   Note the little arch at the bottom that is useful for crossing with the power
   or water line.
 - [Backflush Valve](https://www.amazon.com/Camco-Blaster-Rinser-Backflow-39086/dp/B072VSRG8T?tag=rvlifehacks-20)
-  Regularly backflush your tanks to keep their volume and functionality.
+  Regularly back-flush your tanks to keep their volume, functionality and the
+  sensors working (sometimes).
+
+  <img src="assets/pics/thumbs/BackflushValve.jpg" width="15%">
+
 - [10' Sewer Hose](https://www.amazon.com/Camco-39639-Revolution-Extension-Pre-Attached/dp/B074JFRW3L?tag=rvlifehacks-20)
   We keep three of those and a shorter one (included with the tote tank below).
 - [28 Ga Tote Tank](https://www.amazon.com/Camco-Rhino-28-Gallon-Tote-Built/dp/B07K87FR5C?tag=rvlifehacks-20)

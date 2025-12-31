@@ -31,7 +31,12 @@ Sturdy and road-worthy roof solar install
 </p>
 
 <p>
+  <img src="../assets/pics/thumbs/SolarUnistruts.jpg" width="45%">
   <img src="../assets/pics/thumbs/SolarEdgeClampOnUnistrut.jpg" width="45%">
+</p>
+
+<p>
+  <img src="../assets/pics/thumbs/RoofJunctionBox.jpg" width="45%">
   <img src="../assets/pics/thumbs/RoofJunctionBoxForSolarAndStarlink.jpg" width="45%">
 </p>
 

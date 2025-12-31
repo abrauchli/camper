@@ -19,7 +19,6 @@ close the kids room (garage) door and have a quiet living room.
   <img src="../assets/pics/thumbs/LoftAdditionalStorageRaw.jpg" width="45%">
 </p>
 
-
 ## Notes
 
 - Created additional storage space by opening the back (over the bathroom)
