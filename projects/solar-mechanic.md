@@ -12,6 +12,8 @@ Sturdy and road-worthy roof solar install
 
 ## Materials
 - Solar panels
+- [Panel 1-5/8" Unistrut Mid-clamps 10Pcs](https://www.amazon.com/gp/product/B0DGXLQMSZ?tag=rvlifehacks-20) between two adjacent panels.
+- [Panel 1-5/8" Unistrut End-clamps 5Pcs](https://www.amazon.com/gp/product/B0DY77RJJF?tag=rvlifehacks-20) at the end of a panel (no adjacent panel.)
 - Wires
 - Breakers
 - [DIN Rails](https://www.amazon.com/mxuteuk-Aluminum-Hardware-Components-Mounting/dp/B0DHWP4VGY?tag=rvlifehacks-20)
