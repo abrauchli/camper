@@ -207,7 +207,7 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
   one uses only about half.
 - [Dicor Non-sag Lap Sealant](https://www.amazon.com/Dicor-651SANSW-1-Non-Leveling-Ultra-Sealant/dp/B0949J5PQZ?tag=rvlifehacks-20)
   Use non-sag sealant on the screw holes and the vent cover if you drill the
-  hole yourself.
+  vent hole through the camper yourself.
 
 ### Bike Rack
 
@@ -285,6 +285,10 @@ Works well for 4-6 bikes (2 wedged in between). Also fits all bikes in the RAM
   have Philips heads. Let me know if you found a good set of self-tapping screws
   with Robertson (square drive) heads.
 
+- [Griddle Quick-Connect Adapter](https://www.amazon.com/ATKKE-Propane-Connect-Pressure-Appliance/dp/B0BC125MQ1?tag=rvlifehacks-20)
+  I faintly remember the griddle coming with one, but if it did I lost it. This
+  will help you out.
+
 - [Gas hose with Quick-Connect](https://www.amazon.com/GASPRO-Propane-Connect-Extension-Pressure/dp/B09XF1M1RG?tag=rvlifehacks-20)
   One through the belly of the trailer and one as extension to the griddle.
 
@@ -327,9 +331,10 @@ Onan 5500 Evap
 
 ### Plumbing and Sewage
 
-- [Valve](https://www.amazon.com/dp/B085RRTZKF?tag=rvlifehacks-20) Every time
-  you fix a line that doesn't have a stop valve on the manifold, do yourself a
-  favor and add one.
+- [1/2" PEX to 3/8" OD Valve 10Pcs](https://www.amazon.com/dp/B085RRTZKF?tag=rvlifehacks-20)
+  Every time you remove a line that doesn't have a stop valve before the sink,
+  do yourself a favor and add one to avoid having to shut the water and drain
+  the lines to the whole camper.
 - [Sewer Hose Support](https://www.amazon.com/Beech-Lane-Support-Collapse-Drainage/dp/B0BQ7J77PC?tag=rvlifehacks-20)
   Note the little arch at the bottom that is useful for crossing with the power
   or water line.
@@ -339,7 +344,8 @@ Onan 5500 Evap
   We keep three of those and a shorter one (included with the tote tank below).
 - [28 Ga Tote Tank](https://www.amazon.com/Camco-Rhino-28-Gallon-Tote-Built/dp/B07K87FR5C?tag=rvlifehacks-20)
   Great for sites without sewage. Hookable to a rear ladder. We attached ours to
-  the roof with spare unistruts from the solar install. 28Ga seems unavailable, 21 or 36 are.
+  the roof with spare unistruts from the solar install. 28Ga seems unavailable,
+  21 or 36 are.
 - [Drain Valve Lubricant](https://www.amazon.com/dp/B000BGK2L0?tag=rvlifehacks-20)
   Only use on black tanks and if valve gets sticky. Don't use as preventive
   measure. This one is water-soluble and doesn't contain silicones.
@@ -438,6 +444,10 @@ often. Better than the clip breaking off, but a tad tighter would help.
 
 - [Ladder Safety Pins](https://www.amazon.com/Release-Diameter-Overall-Stainless-Hardware/dp/B0D2MF7SY2?tag=rvlifehacks-20)
   Great because they're actual stainless steel that doesn't rust
+- [Refrigerator Vent Cover Plug 4Pcs](https://www.amazon.com/Terixe-Refrigerator-617772-Replacement-Fastener/dp/B0DP6NX5DY?tag=rvlifehacks-20)
+  The plastic seems a bit stiff but they work and I've done a few on/off cycles.
+  Maybe the trick to not breaking them is to use pliers instead of a
+  screwdriver.
 
 ### Outdoor Toys
 

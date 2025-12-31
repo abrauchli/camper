@@ -12,7 +12,13 @@ close the kids room (garage) door and have a quiet living room.
 
 <p>
   <img src="../assets/pics/thumbs/LoftOpening.jpg" width="45%">
+  <img src="../assets/pics/thumbs/LoftEntranceStuddedBeforeClosing.jpg" width="45%">
 </p>
+<p>
+  <img src="../assets/pics/thumbs/LoftAdditionalStorage.jpg" width="45%">
+  <img src="../assets/pics/thumbs/LoftAdditionalStorageRaw.jpg" width="45%">
+</p>
+
 
 ## Notes
 
