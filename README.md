@@ -339,7 +339,10 @@ Onan 5500 Evap
   We keep three of those and a shorter one (included with the tote tank below).
 - [28 Ga Tote Tank](https://www.amazon.com/Camco-Rhino-28-Gallon-Tote-Built/dp/B07K87FR5C?tag=rvlifehacks-20)
   Great for sites without sewage. Hookable to a rear ladder. We attached ours to
-  the roof with spare unistruts from the solar install.
+  the roof with spare unistruts from the solar install. 28Ga seems unavailable, 21 or 36 are.
+- [Drain Valve Lubricant](https://www.amazon.com/dp/B000BGK2L0?tag=rvlifehacks-20)
+  Only use on black tanks and if valve gets sticky. Don't use as preventive
+  measure. This one is water-soluble and doesn't contain silicones.
 
 ### Chocks and Leveling
 
@@ -480,14 +483,14 @@ often. Better than the clip breaking off, but a tad tighter would help.
   Rug works fine, USB broke off after less than a handful of uses.
 - [RV Propane Regulator](https://www.amazon.com/Fairview-GR-9984-Automatic-Changeover-Regulator/dp/B0CJL6M1S4?tag=rvlifehacks-20)
   Ours started leaking and this is a drop-in replacement.
-- [Drain Valve Lubricant](https://www.amazon.com/dp/B000BGK2L0?tag=rvlifehacks-20)
-  Only use on black tanks and if valve gets sticky. Don't use as preventive
-  measure. This one is water-soluble and doesn't contain silicones.
 - [Awning Motor Idler Cover](https://www.amazon.com/dp/B0CWZLLFC6?tag=rvlifehacks-20)
   Lost one on the road. This one replaces it. Needs both halves replaced even if
   you still have one as it doesn't have the same curving.
 - [Magnetic Work Lights](https://www.amazon.com/dp/B0BYSXSDKT?tag=rvlifehacks-20)
   Doubles as bicycle light if you're willing to hold it while riding.
+
+  <img src="assets/pics/thumbs/UtilityUSBLamps.jpg" width="25%">
+
 - [Eternabond Roof Repair Tape](https://www.amazon.com/EternaBond-WHITE-Mobile-Rubber-Repair/dp/B00AYPCJ9G?tag=rvlifehacks-20)
   Lifesaver for little roof tears after scraping branches. Careful, once it's on
   it stays and will not come off. We also use it to reinforce the side of the
