@@ -53,11 +53,12 @@ electric needs of a family while boon-docking for about a week.
   hydraulic jacks, 1500W for the slide-outs and why not another 1000W to start
   the generator, that's 7000W or 583A at 12V, so 600A sounds about right. Cut in
   half and round up for 24V.
-- [63A 2 Pole DC Breaker](https://www.amazon.com/gp/product/B0DK3JCBFM?tag=rvlifehacks-20)
+- [63A 2 Pole DC Breaker and DIN rail](https://www.amazon.com/gp/product/B0DK3JCBFM?tag=rvlifehacks-20)
   Connects the wire from the panel series to the MPPT solar charger. My 3 solar
   250W panels in series could deliver a maximum of 750W or 24.9A at 30.08Vmp.
   Good. With 63A I could attach a max of 1895W to that DC breaker (30.08Vmp \*
-  63A = 1895.04VA or 1895W)
+  63A = 1895.04VA or 1895W). Each breaker comes with a DIN rail mount.
+
 - [Inline Fuse (with set of fuses) 10Pcs](https://www.amazon.com/gp/product/B0DQWNZ7R4?smid=A35CT1Z0FOO90R?tag=rvlifehacks-20)
   Inline fuse for the solar wires. Use with 10A or 15A fuse.
 

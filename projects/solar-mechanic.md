@@ -14,10 +14,6 @@ Sturdy and road-worthy roof solar install
 - Solar panels
 - [Panel 1-5/8" Unistrut Mid-clamps 10Pcs](https://www.amazon.com/gp/product/B0DGXLQMSZ?tag=rvlifehacks-20) between two adjacent panels.
 - [Panel 1-5/8" Unistrut End-clamps 5Pcs](https://www.amazon.com/gp/product/B0DY77RJJF?tag=rvlifehacks-20) at the end of a panel (no adjacent panel.)
-- Wires
-- Breakers
-- [DIN Rails](https://www.amazon.com/mxuteuk-Aluminum-Hardware-Components-Mounting/dp/B0DHWP4VGY?tag=rvlifehacks-20)
-  To mount breakers on
 - [10ft 14Ga Unistruts](https://www.homedepot.com/p/Superstrut-10-ft-14-Gauge-Half-Slotted-Metal-Framing-Strut-Channel-Green-Urethane-Powder-Coated-ZB1400HS-10GR-ZB1400HS-10GR/100155787)
 
 ## Mounting
