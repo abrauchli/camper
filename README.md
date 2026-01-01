@@ -18,6 +18,7 @@ way to review the products.**
 ## Table of Contents
 
 - [DIY Projects](#projects)
+  - [Kitchen](#kitchen)
   - [Office / Bedroom](#office-bedroom)
   - [Living Room](#living-room)
   - [Roof](#roof)
@@ -33,6 +34,11 @@ you! File an issue or open a pull-request.
 ## DIY Projects
 
 Hands-on RV modifications with photos, install notes, and lessons learned.
+
+### Kitchen
+
+- [Dishwasher](projects/dishwasher.md)
+  The #1 quality-of-life improvement in the RV!
 
 ### Office / Bedroom
 
@@ -87,7 +93,6 @@ _As an Amazon Associate I earn from qualifying purchases._
 
 - [Couch](#couch)
 - [Office](#office)
-- [Dishwasher](#dishwasher)
 - [Kitchen](#kitchen)
 - [Bathroom](#bathroom)
 - [Washer](#washer)
@@ -143,13 +148,6 @@ _As an Amazon Associate I earn from qualifying purchases._
   Brings USB from the PC to the screen. Keyboard, mouse, USB drives etc. then
   all plug into the screen's USB hub.
 
-### Dishwasher
-
-Works fine on 13 amp connection, technically needs 16 amps as per manual.
-
-- [Dishwasher](https://www.amazon.com/FOTILE-Dishwasher-Combination-Energy-saving-SD2F-P3/dp/B0BZGXYQ4S?tag=rvlifehacks-20)
-- Plumbing supplies (ABS pipes, elbows and primer) from Home Depot
-
 ### Kitchen
 
 - [Magnetic Knife Holder](https://www.amazon.com/dp/B09QQQM6GW?tag=rvlifehacks-20)
@@ -164,6 +162,9 @@ Works fine on 13 amp connection, technically needs 16 amps as per manual.
   Mounts on the door and recycles Walmart Plastic Bags.
 - [Trash bags](https://www.amazon.com/T-FORING-Gallon-Trash-Bags-Drawstring/dp/B0CZ3JZLDJ?tag=rvlifehacks-20)
   If you're ever out of Walmart Plastic Bags (like in Colorado)
+- [Air fryer](https://www.amazon.com/Chefman-TurboFry-Air-Fryer-Dishwasher/dp/B08DKYBTPH?tag=rvlifehacks-20)
+  Great for low-effort finger-food meals. Don't use together with other
+  high-drain appliances as it will trigger the poor RV breaker.
 
 ### Bathroom
 
