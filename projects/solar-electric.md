@@ -1,5 +1,7 @@
 # Solar Electric Install
 
+[Back to Overview](../README.md)
+
 This covers the electrical aspects of the solar install on a Grand Design
 Momentum 395m. See [Solar Mechanic](solar-mechanic.md) for the mechanical part.
 
@@ -193,3 +195,5 @@ Measuring my real-world draw came down to about:
 - Generator: 100Amps for a few seconds at ~60F
 - Leveling Jacks: 120Amps while pushing up the front hydraulic leveling jacks.
 - AC starting: 1200W, AC running 900W
+
+[Back to Overview](../README.md)

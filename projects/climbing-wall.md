@@ -1,5 +1,7 @@
 # Climbing Wall
 
+[Back to Overview](../README.md)
+
 **DISCLAIMER: BUILD AND USE AT YOUR OWN RISK AND PERIL**
 
 - Time: 1 day
@@ -63,3 +65,5 @@ adults while still allowing the ladder as a backup.
   (next to loft entrance.) but don't make them a safety-essential element since
   I doubt there's a spec'ed weight on them.
 - We haven't used the ladder since. It just lays on the floor at the side.
+
+[Back to Overview](../README.md)

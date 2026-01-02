@@ -1,5 +1,7 @@
 # Shower and Shower Door Replacement
 
+[Back to Overview](../README.md)
+
 - Time: 4h shower, 4h retractable curtain
 - Money: 550$
 
@@ -42,3 +44,5 @@ Access the old shower from the pantry! Don't try to bend the fibre-glass shower.
   you hide it behind as intended, you'll have to remove the whole box to replace
   the batteries. So far batteries are still good after 1/2 year but I wouldn't
   redo the silicone around just to replace them.
+
+[Back to Overview](../README.md)

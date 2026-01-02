@@ -1,5 +1,7 @@
 # LED Lighting on Deck & Ramp
 
+[Back to Overview](../README.md)
+
 - Time: 1 day
 - Money: $200
 
@@ -63,3 +65,5 @@ Indirect decorating lighting on the deck
   the way when stored for transport.
 - Spray painting the white connectors with black enamel worked well and makes
   them harder to distinguish from the railing.
+
+[Back to Overview](../README.md)

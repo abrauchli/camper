@@ -1,5 +1,7 @@
 # Dining Table
 
+[Back to Overview](../README.md)
+
 - Time: 1-2 days, over multiple days. Mostly coating the table.
 - Money: $400
 
@@ -32,7 +34,7 @@ plan on.
 - [Stools](https://www.amazon.com/IBUYKE-Cushion-Upholstered-Entryway-WBD007NG/dp/B0DBHD6DMT?tag=rvlifehacks-20)
   We store three of those under the table.
 
-  <img src="assets/pics/thumbs/TableAndStools.jpg" width="25%">
+  <img src="../assets/pics/thumbs/TableAndStools.jpg" width="25%">
 
 ## Dimensions
 
@@ -58,3 +60,5 @@ plan on.
   accordingly ensuring you don't go through the bottom. Retract the slide-out to
   measure the floor thickness as the front-side of the floor-board is typically
   thinner.
+
+[Back to Overview](../README.md)

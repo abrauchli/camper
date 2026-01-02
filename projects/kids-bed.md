@@ -1,5 +1,7 @@
 # Kids Bed: King Bed on the HappiJac Lift
 
+[Back to Overview](../README.md)
+
 - Time: 3 days
 - Money: 150$ lumber + 150$/Mattress + 50$ mold protector
 
@@ -77,3 +79,5 @@ and a little spacer in between for water bottles, books or toys.
     sections for an even hole pattern.
 
     <img src="../assets/pics/thumbs/HappiJacBedHoleSaw.jpg" width="45%">
+
+[Back to Overview](../README.md)

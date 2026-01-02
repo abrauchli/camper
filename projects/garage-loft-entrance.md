@@ -1,5 +1,7 @@
 # Garage Loft Entrance
 
+[Back to Overview](../README.md)
+
 - Time: 2 days
 - Money: 50$
 
@@ -28,3 +30,5 @@ close the kids room (garage) door and have a quiet living room.
   as noise-insulation)
 - Close the living room access last. Working up there gets really hot once it's
   closed. Running the living room AC helps.
+
+[Back to Overview](../README.md)

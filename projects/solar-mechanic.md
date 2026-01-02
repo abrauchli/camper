@@ -1,5 +1,7 @@
 # Solar Mechanic Install
 
+[Back to Overview](../README.md)
+
 - Time: 3-4 days
 - Money: ~$2,000 (TODO: check receipts)
 
@@ -48,3 +50,5 @@ Sturdy and road-worthy roof solar install
   can be helpful to trace the nails.
 - Periodically check stability (so far, no issues after 12k miles)
 - Extra unistrut turned into a dump tote mount
+
+[Back to Overview](../README.md)

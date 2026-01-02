@@ -1,5 +1,7 @@
 # Homey-Looking Luxury Vinyl Plank Garage Floor
 
+[Back to Overview](../README.md)
+
 - Time: 2 days
 - Money: $400
 
@@ -49,3 +51,5 @@ Flat homey looking floor instead of toy garage floor
 
 - To store the bikes for transport, we first lay an
   [Extra Heavy Duty Tarp](https://www.homedepot.com/p/Everbilt-10-ft-x-12-ft-Gray-and-Black-Extra-Heavy-Duty-Tarp-KSEHD15DR1012/317652375)
+
+[Back to Overview](../README.md)

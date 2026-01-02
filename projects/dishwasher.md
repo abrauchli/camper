@@ -1,5 +1,7 @@
 # Dishwasher
 
+[Back to Overview](../README.md)
+
 - Time: 1d
 - Money: 1,100$ - 1,450$
 
@@ -101,3 +103,5 @@ angle grinder that mostly just melted through it.
 
   <img src="../assets/pics/thumbs/DishwasherOverflowPTraps.jpg" width="45%">
   <img src="../assets/pics/thumbs/DishwasherOverflowPTrapsBack.jpg" width="45%">
+
+[Back to Overview](../README.md)
