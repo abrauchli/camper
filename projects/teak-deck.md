@@ -6,6 +6,7 @@
 - Money: ~300$
 
 ## Goal
+
 Non-slip, barefoot-friendly ramp surface that doesn't burn your feet when
 exposed to the sun.
 
@@ -16,6 +17,7 @@ exposed to the sun.
 - 4-6" Roller from Home Depot
 
 ## Process
+
 - Leave teak mat rolled out flat in the sun for a few days to let the material
   shrink to avoid gaps. Leaving it rolled out will also make it easier to
   stick-and-peel since it won't curl up as much.
@@ -32,9 +34,15 @@ exposed to the sun.
 </p>
 
 ## Notes
+
 - Shrinking process sets in fairly quickly but give it a few days. We skipped
   that step and now have ~1/16" gaps - not terrible but avoidable.
 - Holds up well to rain and sun
 - Easy to hose down
+
+For future reference the patio railing schematic. I needed to reorder some
+railing feet and that's where I got the Lippert part number from.
+
+<img src="../assets/lippert-patio-railing-schematic.jpg" width="45%">
 
 [Back to Overview](../README.md)
