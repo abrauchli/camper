@@ -117,6 +117,8 @@ _As an Amazon Associate I earn from qualifying purchases._
 - [Screen Doors](#screen-doors)
 - [Storage](#storage)
 - [Outdoor Toys](#outdoor-toys)
+- [Other Indoor Equipment](#other-indoor-equipment)
+- [Other Outdoor Equipment](#other-outdoor-equipment)
 - [Random Stuff](#random-stuff)
 
 ### Couch
@@ -489,43 +491,12 @@ often. Better than the clip breaking off, but a tad tighter would help.
   <img src="assets/pics/thumbs/CartOut.jpg" width="15%">
   <img src="assets/pics/thumbs/CartIn.jpg" width="15%">
 
-### Random Stuff
-
-- [Tripod Stabilizer](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0DRGVGBD1?tag=rvlifehacks-20)
-  Works with the Andersen hitch. For a regular fifth-wheel hitch, use the
-
-  <img src="assets/pics/thumbs/TripodOnAndersenHitchAdapter.jpg" width="15%">
-
-  [King Pin variation](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0CL56P9KF?tag=rvlifehacks-20)
-  Must-have item for everyone with washer/drying in their front. Nice to have
-  for everyone else. Measure your height and make sure it's enough. We need some
-  leveling blocks in some cases to keep it straight or extend it to the
-  necessary height.
+### Other Indoor Equipment
 
 - [Rope-Ball Door stoppers](https://www.amazon.com/Creative-Co-op-DE1586-Nautical-White/dp/B00AU4D9H2?tag=rvlifehacks-20)
 - [Slim dresser](https://www.amazon.com/Sorbus-Kids-Dresser-Drawers-Organizer/dp/B0DYPZV8TJ?tag=rvlifehacks-20)
-- [Outdoor rug](https://www.amazon.com/HEBE-Outdoor-Waterproof-Reversible-Backyard/dp/B0CKVCWYFX?tag=rvlifehacks-20)
-  Rug works fine, USB broke off after less than a handful of uses.
-- [RV Propane Regulator](https://www.amazon.com/Fairview-GR-9984-Automatic-Changeover-Regulator/dp/B0CJL6M1S4?tag=rvlifehacks-20)
-  Ours started leaking and this is a drop-in replacement.
-- [Awning Motor Idler Cover](https://www.amazon.com/dp/B0CWZLLFC6?tag=rvlifehacks-20)
-  Lost one on the road. This one replaces it. Needs both halves replaced even if
-  you still have one as it doesn't have the same curving.
-- [Magnetic Work Lights](https://www.amazon.com/dp/B0BYSXSDKT?tag=rvlifehacks-20)
-  Doubles as bicycle light if you're willing to hold it while riding.
-
-  <img src="assets/pics/thumbs/UtilityUSBLamps.jpg" width="25%">
-
-- [Eternabond Roof Repair Tape](https://www.amazon.com/EternaBond-WHITE-Mobile-Rubber-Repair/dp/B00AYPCJ9G?tag=rvlifehacks-20)
-  Lifesaver for little roof tears after scraping branches. Careful, once it's on
-  it stays and will not come off. We also use it to reinforce the side of the
-  awning fabric against potential tears.
-
-  <img src="assets/pics/thumbs/Eternabond.jpg" width="15%">
-
 - [Spare ceiling lights 4.5"](https://www.amazon.com/Homdec-4-5Inch-Recessed-Interior-Motorhome/dp/B0899MNR36?tag=rvlifehacks-20)
   Warm white (factory)
-- [Painbrushes for Epoxy](https://www.amazon.com/Bates-Brushes-Natural-Bristle-Painting/dp/B0BFFYRX23?tag=rvlifehacks-20)
 - [Door Seal Brush Strip](https://www.amazon.com/Weather-Stripping-Sliding-Windows-Backing/dp/B0BVZZSQVD?tag=rvlifehacks-20)
   Seals the bottom of the sliding door
 - [Wallpaper](https://www.amazon.com/HaokHome-96101-1-Wallpaper-Removable-Adhesive/dp/B09KRRBDYS?tag=rvlifehacks-20)
@@ -536,6 +507,48 @@ often. Better than the clip breaking off, but a tad tighter would help.
   Next to the couch in the living room
 - [Book Storage bins](https://www.amazon.com/Storex-Linking-Storage-Surface-Assorted/dp/B07SP5KK9H?tag=rvlifehacks-20)
   Fits the 6" shelf. Great for the homeschool workbook collection.
+- [Vacuum Extensions](https://www.amazon.com/ALL-PARTS-ETC-Accessories-Attachments/dp/B081ZG9WYR?tag=rvlifehacks-20)
+  For the built-in vacuum. Ours were missing when we bought the trailer.
+- [Vacuum Bags](https://www.amazon.com/InterVac-Design-Corp-Dust-Y11-5/dp/B00XNNQMI0?tag=rvlifehacks-20)
+  For the built-in vacuum. Reusable a few times if you're willing to pull out
+  the dirt.
+
+### Other Outdoor Equipment
+
+- [Tripod Stabilizer](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0DRGVGBD1?tag=rvlifehacks-20)
+  Works with the Andersen hitch. For a regular fifth-wheel hitch, use the
+
+  <img src="assets/pics/thumbs/TripodOnAndersenHitchAdapter.jpg" width="15%">
+
+  [King Pin variation](https://www.amazon.com/Schumaho-Gooseneck-Stabilizer-Adjustable-%EF%BC%88Patented/dp/B0CL56P9KF?tag=rvlifehacks-20)
+  Must-have item for everyone with washer/drying in their front. Nice to have
+  for everyone else. Measure your height and make sure it's enough. We need some
+  leveling blocks in some cases to keep it straight or extend it to the
+  necessary height. Also check out the
+  [DIY rear stabilizers project](projects/rear-stabilizers.md).
+
+- [Outdoor rug](https://www.amazon.com/HEBE-Outdoor-Waterproof-Reversible-Backyard/dp/B0CKVCWYFX?tag=rvlifehacks-20)
+  Rug works fine, USB broke off after less than a handful of uses.
+- [RV Propane Regulator](https://www.amazon.com/Fairview-GR-9984-Automatic-Changeover-Regulator/dp/B0CJL6M1S4?tag=rvlifehacks-20)
+  Ours started leaking and this is a drop-in replacement.
+- [Awning Motor Idler Cover](https://www.amazon.com/dp/B0CWZLLFC6?tag=rvlifehacks-20)
+  Lost one on the road. This one replaces it. Needs both halves replaced even if
+  you still have one as it doesn't have the same curving.
+- [Eternabond Roof Repair Tape](https://www.amazon.com/EternaBond-WHITE-Mobile-Rubber-Repair/dp/B00AYPCJ9G?tag=rvlifehacks-20)
+  Lifesaver for little roof tears after scraping branches. Careful, once it's on
+  it stays and will not come off. We also use it to reinforce the side of the
+  awning fabric against potential tears.
+
+  <img src="assets/pics/thumbs/Eternabond.jpg" width="15%">
+
+### Random Stuff
+
+- [Magnetic Work Lights](https://www.amazon.com/dp/B0BYSXSDKT?tag=rvlifehacks-20)
+  Doubles as bicycle light if you're willing to hold it while riding.
+
+  <img src="assets/pics/thumbs/UtilityUSBLamps.jpg" width="25%">
+
+- [Painbrushes for Epoxy](https://www.amazon.com/Bates-Brushes-Natural-Bristle-Painting/dp/B0BFFYRX23?tag=rvlifehacks-20)
 - [Magsafe Phone Holder/Charger](https://www.amazon.com/LISEN-Magsafe-Magnetic-Wireless-Charging/dp/B0CQPHLQYH?tag=rvlifehacks-20)
   We got one on the driver and one on the passenger side of the pickup. Needs a
   Magsafe case (e.g.
@@ -550,8 +563,3 @@ often. Better than the clip breaking off, but a tad tighter would help.
   around youger kids. Not for data transfer but very handy for anything not
   fast-charging. Especially if you have both Androids and iPhones. Batteries
   live longer if you don't fast-charge them all the time anyway.
-- [Vacuum Extensions](https://www.amazon.com/ALL-PARTS-ETC-Accessories-Attachments/dp/B081ZG9WYR?tag=rvlifehacks-20)
-  For the built-in vacuum. Ours were missing when we bought the trailer.
-- [Vacuum Bags](https://www.amazon.com/InterVac-Design-Corp-Dust-Y11-5/dp/B00XNNQMI0?tag=rvlifehacks-20)
-  For the built-in vacuum. Reusable a few times if you're willing to pull out
-  the dirt.
