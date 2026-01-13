@@ -24,6 +24,7 @@ way to review the products.**
   - [Roof](#roof)
   - [Deck](#deck)
   - [Kids Room / Garage](#kids-room-garage)
+  - [Exterior](#exterior)
 - [RV Product List](#rv-product-list)
 
 Also check out the [RAM 3500 equipment](RAM3500.md) (not just RAM specific).
@@ -37,8 +38,8 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 
 ### Kitchen
 
-- [Dishwasher](projects/dishwasher.md)
-  The #1 quality-of-life improvement in the RV!
+- [Dishwasher](projects/dishwasher.md) The #1 quality-of-life improvement in the
+  RV!
 
 ### Office / Bedroom
 
@@ -83,6 +84,12 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 - [Loft Access from Garage](projects/garage-loft-entrance.md)
 
   <img src="assets/pics/thumbs/LoftOpening.jpg" width="15%">
+
+### Exterior
+
+- [Rear Stabilizers](projects/rear-stabilizers.md)
+
+  <img src="assets/pics/thumbs/RearStabilizersSide.jpg" width="15%">
 
 ## RV Product List
 
