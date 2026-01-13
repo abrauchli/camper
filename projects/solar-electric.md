@@ -195,5 +195,6 @@ Measuring my real-world draw came down to about:
 - Generator: 100Amps for a few seconds at ~60F
 - Leveling Jacks: 120Amps while pushing up the front hydraulic leveling jacks.
 - AC starting: 1200W, AC running 900W
+- Awning: 4Amps (8Amps at the very end when retracting - don't burn the motor)
 
 [Back to Overview](../README.md)
