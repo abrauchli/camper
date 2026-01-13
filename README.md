@@ -373,7 +373,7 @@ Onan 5500 Evap
   is definitely not justified.
   [Standard chocks](https://www.amazon.com/Camco-Wheel-Chock-Removal-Trailer/dp/B00K1C1WC2?tag=rvlifehacks-20).
 
-- [Ratchet Straps](https://www.amazon.com/DEWALT-DXBC50002-Yellow-Ratchet-Straps/dp/B0BYKDSZQT?tag=rvlifehacks-20)
+- [Heavy Duty Ratchet Straps](https://www.amazon.com/DEWALT-DXBC50002-Yellow-Ratchet-Straps/dp/B0BYKDSZQT?tag=rvlifehacks-20)
   Hold the legs together. As described and pictured below with the jack blocks,
   it's not such a Grand Design to have levels face outwards as it causes them to
   slip when extending far. The straps help even out the slippage. **Get the
