@@ -7,11 +7,23 @@
 
 ## Goal
 
-Better RV stability with improvised rear jacks. If your RV has a rear hitch
-receiver, you can also consider a product like this
-[Adjustable hitch mount stabilizer](https://www.amazon.com/GADFISH-Adjustable-Stabilizer-Foldable-Universal/dp/B0FWRMKRKN?tag=rvlifehacks-20)
-which likely provides better front-back stabilization but a little less sideways
-stabilization.
+Better RV stability with improvised rear jacks.
+
+### Off the Shelf Alternatives
+
+- If your RV has a rear hitch receiver, you can also consider a product like
+  this
+  [Adjustable hitch mount stabilizer](https://www.amazon.com/GADFISH-Adjustable-Stabilizer-Foldable-Universal/dp/B0FWRMKRKN?tag=rvlifehacks-20)
+  which likely provides better front-back stabilization but a little less
+  sideways stabilization.
+- Alternatively, there's also an
+  [Adjustable stabilizing bench](https://www.amazon.com/Beech-Lane-Universal-Stabilizer-Adjustable/dp/B0BKB3J2L3?tag=rvlifehacks-20)
+  for under the rear bumper (1pack) or the
+  [2pack](https://www.amazon.com/Beech-Lane-Universal-Stabilizer-Adjustable/dp/B0BYTB38PT?tag=rvlifehacks-20)
+  for on each side under the I-beam if the added costs and storage don't put you off. Note that
+  although aluminum will not rust, galvanic corrosion could become an issue if your I-beam is rusty
+  and there's moisture between both pieces so I'd use a plastic foam sheet to insulate. This product
+  works for up to 26.5" ground clearance.
 
 ## Photos
 
