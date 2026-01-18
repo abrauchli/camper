@@ -55,6 +55,8 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
   <img src="assets/pics/thumbs/TableAndStools.jpg" width="15%">
 - [Fireplace Cleanout](projects/fireplace-cleanout.md)
 
+  <img src="assets/pics/thumbs/FireplaceOut.jpg" width="15%">
+
 ### Roof
 
 - [Starlink roof install](projects/starlink.md)
