@@ -53,6 +53,7 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 - [Storage L-Shaped Dining Bench](projects/storage-dining-bench.md)
 
   <img src="assets/pics/thumbs/TableAndStools.jpg" width="15%">
+- [Fireplace Cleanout](projects/fireplace-cleanout.md)
 
 ### Roof
 

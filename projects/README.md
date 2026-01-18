@@ -19,56 +19,59 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 
 ### Kitchen
 
-- [Dishwasher](projects/dishwasher.md)
+- [Dishwasher](dishwasher.md)
   The #1 quality-of-life improvement in the RV!
 
 ### Office / Bedroom
 
-- [Foldable Office Desk](projects/office-desk.md)
+- [Foldable Office Desk](office-desk.md)
 
   <img src="../assets/pics/thumbs/OfficeFoldableDeskUp.jpg" width="15%">
 
 ### Living Room
 
-- [Dining Table](projects/dining-table.md)
-- [Storage L-Shaped Dining Bench](projects/storage-dining-bench.md)
+- [Dining Table](dining-table.md)
+- [Storage L-Shaped Dining Bench](storage-dining-bench.md)
 
   <img src="../assets/pics/thumbs/TableAndStools.jpg" width="15%">
+- [Fireplace Cleanout](fireplace-cleanout.md)
+
+  <img src="../assets/pics/thumbs/FireplaceOut.jpg" width="15%">
 
 ### Roof
 
-- [Starlink roof install](projects/starlink.md)
-- [Solar setup (Mechanic)](projects/solar-mechanic.md)
-- [Solar setup (Electric)](projects/solar-electric.md)
+- [Starlink roof install](starlink.md)
+- [Solar setup (Mechanic)](solar-mechanic.md)
+- [Solar setup (Electric)](solar-electric.md)
 
   <img src="../assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="15%">
 
-- [Roof-Mounted Dump Tote](projects/roof-mounted-dump-tote.md)
+- [Roof-Mounted Dump Tote](roof-mounted-dump-tote.md)
 
   <img src="../assets/pics/thumbs/DumpToteOnUnistrutsOverview.jpg" width="15%">
 
 ### Deck
 
-- [Boat teak deck](projects/teak-deck.md)
-- [LED lighting on deck](projects/deck-leds.md)
-- [Acrylic Panel Doors](projects/acrylic-panel-doors.md)
+- [Boat teak deck](teak-deck.md)
+- [LED lighting on deck](deck-leds.md)
+- [Acrylic Panel Doors](acrylic-panel-doors.md)
 
   <img src="../assets/pics/thumbs/LEDDeckIlluminated.jpg" width="15%">
 
 ### Kids Room / Garage
 
-- [Garage Luxury Vinyl Floor](projects/vinyl-floor.md)
-- [Climbing Wall](projects/climbing-wall.md)
+- [Garage Luxury Vinyl Floor](vinyl-floor.md)
+- [Climbing Wall](climbing-wall.md)
 
   <img src="../assets/pics/thumbs/ClimbingWall.jpg" width="15%">
 
-- [Loft Access from Garage](projects/garage-loft-entrance.md)
+- [Loft Access from Garage](garage-loft-entrance.md)
 
   <img src="../assets/pics/thumbs/LoftOpening.jpg" width="15%">
 
 ### Exterior
 
-- [Rear Stabilizers](projects/rear-stabilizers.md)
+- [Rear Stabilizers](rear-stabilizers.md)
 
   <img src="../assets/pics/thumbs/RearStabilizersSide.jpg" width="15%">
 
