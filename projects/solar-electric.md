@@ -56,6 +56,9 @@ generator bay (self tapping screws).
   if I'd do it again, I'd take with Bluetooth for the added convenience of
   configuring without the cable.
 
+- [VE.Direct to USB cables](https://www.amazon.com/Victron-Energy-VE-Direct-USB-Cable/dp/B01LZ6WTLW?tag=rvlifehacks-20)
+  for the [DVCC with a Raspi Zero 2W](raspberry-pi-venus-os.md)
+
 - [Renogy Core Mini 12V 300Ah 2Pcs](https://www.amazon.com/Renogy-300Ah-LiFePO4-Lithium-Battery/dp/B0DLNMWTY6?tag=rvlifehacks-20)
 
 - [500A Battery Disconnect Switch](https://www.amazon.com/gp/product/B0D4Z8X6PY?tag=rvlifehacks-20)
@@ -155,8 +158,6 @@ Renogy's estimation is typically below the Victron one, esp. after a few days
 without hitting 100% SoC it can be off by as much as 20%. I trust Victron has
 the better algorithm.
 
-## Photos
-
 <p>
   <a href="../assets/pics/full/SolarPanels.jpg"><img alt="Solar Panels" src="../assets/pics/thumbs/SolarPanels.jpg" width="45%"></a>
 </p>
@@ -187,6 +188,9 @@ the better algorithm.
   that connects to the 110V AC since that charger is designed for lead-acid/AGM
   batteries and not Lithium Iron Phosphate (LiFePo4) batteries. I use that now
   free 110V plug for the [Starlink router](starlink.md) in the basement.
+- Check out the separate guide for getting the Victron Inverter to read the
+  state of charge (SOC) off the Smart Shunt
+  ([DVCC with a Raspberry Pi Zero 2W](raspberry-pi-venus-os.md))
 
 ### Real World 12V Usage
 

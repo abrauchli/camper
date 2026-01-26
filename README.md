@@ -63,6 +63,7 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 - [Starlink roof install](projects/starlink.md)
 - [Solar setup (Mechanic)](projects/solar-mechanic.md)
 - [Solar setup (Electric)](projects/solar-electric.md)
+- [Raspberry Pi Venus OS Solar Monitoring](projects/raspberry-pi-venus-os.md)
 
   <a href="assets/pics/full/StarlinkBehind2ndAnd3rdAC.jpg"><img alt="Starlink Behind2nd And3rd AC" src="assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="15%"></a>
 

@@ -1,24 +1,34 @@
 {
     "cSpell.words": [
         "ASRC",
+        "Cerbo",
+        "coms",
         "Crawfoot",
         "Dicor",
+        "DVCC",
         "Eternabond",
         "Evap",
         "Furrion",
+        "GeeekPi",
         "Happi",
+        "heatsink",
+        "Imager",
         "Linsy",
         "Magsafe",
         "mkthumbs",
         "Mopar",
         "MPPT",
+        "Multiplus",
         "Onan",
         "Renogy",
         "rvlifehacks",
+        "SmartShunt",
         "Starlink",
         "Unistrut",
         "unistruts",
-        "Victron"
+        "VEConfigure",
+        "Victron",
+        "VRM"
     ],
     "[markdown]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
