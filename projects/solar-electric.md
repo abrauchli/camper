@@ -23,8 +23,8 @@ that will hold the shunts, fuse and main disconnect, is already attached to the
 generator bay (self tapping screws).
 
 <p>
-  <img src="../assets/pics/thumbs/SolarBatteryBayBefore.jpg" width="45%">
-  <img src="../assets/pics/thumbs/SolarVictronInverterAC.jpg" width="45%">
+  <a href="../assets/pics/full/SolarBatteryBayBefore.jpg"><img alt="Solar Battery Bay Before" src="../assets/pics/thumbs/SolarBatteryBayBefore.jpg" width="45%"></a>
+  <a href="../assets/pics/full/SolarVictronInverterAC.jpg"><img alt="Solar Victron Inverter AC" src="../assets/pics/thumbs/SolarVictronInverterAC.jpg" width="45%"></a>
 </p>
 
 ## Material
@@ -158,11 +158,11 @@ the better algorithm.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/SolarPanels.jpg" width="45%">
+  <a href="../assets/pics/full/SolarPanels.jpg"><img alt="Solar Panels" src="../assets/pics/thumbs/SolarPanels.jpg" width="45%"></a>
 </p>
 
 <p>
-  <img src="../assets/pics/thumbs/RoofJunctionBoxForSolarAndStarlink.jpg" width="45%">
+  <a href="../assets/pics/full/RoofJunctionBoxForSolarAndStarlink.jpg"><img alt="Roof Junction Box For Solar And Starlink" src="../assets/pics/thumbs/RoofJunctionBoxForSolarAndStarlink.jpg" width="45%"></a>
 </p>
 
 ## Notes
@@ -179,7 +179,7 @@ the better algorithm.
   you took out the transfer switch output. You can probably reuse the RV wires
   for that if the inverter is not too far off. It worked on mine.
 
-  <img src="../assets/pics/thumbs/SolarRewiredATS.jpg" width="45%">
+  <a href="../assets/pics/full/SolarRewiredATS.jpg"><img alt="Solar Rewired ATS" src="../assets/pics/thumbs/SolarRewiredATS.jpg" width="45%"></a>
 
   Rewired transfer switch.
 

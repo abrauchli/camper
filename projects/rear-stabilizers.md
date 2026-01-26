@@ -28,12 +28,12 @@ Better RV stability with improvised rear jacks.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/RearStabilizers.jpg" width="45%">
-  <img src="../assets/pics/thumbs/RearStabilizersWedged.jpg" width="45%">
+  <a href="../assets/pics/full/RearStabilizers.jpg"><img alt="Rear Stabilizers" src="../assets/pics/thumbs/RearStabilizers.jpg" width="45%"></a>
+  <a href="../assets/pics/full/RearStabilizersWedged.jpg"><img alt="Rear Stabilizers Wedged" src="../assets/pics/thumbs/RearStabilizersWedged.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/RearStabilizers2x4Flat.jpg" width="45%">
-  <img src="../assets/pics/thumbs/RearStabilizersSide.jpg" width="45%">
+  <a href="../assets/pics/full/RearStabilizers2x4Flat.jpg"><img alt="Rear Stabilizers2x4Flat" src="../assets/pics/thumbs/RearStabilizers2x4Flat.jpg" width="45%"></a>
+  <a href="../assets/pics/full/RearStabilizersSide.jpg"><img alt="Rear Stabilizers Side" src="../assets/pics/thumbs/RearStabilizersSide.jpg" width="45%"></a>
 </p>
 
 ## Materials
@@ -72,6 +72,6 @@ Better RV stability with improvised rear jacks.
 - Spray-paint the 2x4s and let dry or go straight to attaching and tightening
   the ratchet strap.
 
-  <img src="../assets/pics/thumbs/RearStabilizersSprayPainted.jpg" width="45%">
+  <a href="../assets/pics/full/RearStabilizersSprayPainted.jpg"><img alt="Rear Stabilizers Spray Painted" src="../assets/pics/thumbs/RearStabilizersSprayPainted.jpg" width="45%"></a>
 
 [Back to Overview](../README.md)

@@ -15,8 +15,8 @@ adults while still allowing the ladder as a backup.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/GarageKidsRoom.jpg" width="45%">
-  <img src="../assets/pics/thumbs/ClimbingWall.jpg" width="45%">
+  <a href="../assets/pics/full/GarageKidsRoom.jpg"><img alt="Garage Kids Room" src="../assets/pics/thumbs/GarageKidsRoom.jpg" width="45%"></a>
+  <a href="../assets/pics/full/ClimbingWall.jpg"><img alt="Climbing Wall" src="../assets/pics/thumbs/ClimbingWall.jpg" width="45%"></a>
 </p>
 
 ## Dimensions

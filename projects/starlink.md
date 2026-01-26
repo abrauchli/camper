@@ -19,11 +19,11 @@ Ethernet. Starlink remains removable when parked with sky-view obstructions.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="45%">
-  <img src="../assets/pics/thumbs/RoofJunctionBoxStarlink.jpg" width="45%">
+  <a href="../assets/pics/full/StarlinkBehind2ndAnd3rdAC.jpg"><img alt="Starlink Behind2nd And3rd AC" src="../assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="45%"></a>
+  <a href="../assets/pics/full/RoofJunctionBoxStarlink.jpg"><img alt="Roof Junction Box Starlink" src="../assets/pics/thumbs/RoofJunctionBoxStarlink.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/StarlinkRearView.jpg" width="45%">
+  <a href="../assets/pics/full/StarlinkRearView.jpg"><img alt="Starlink Rear View" src="../assets/pics/thumbs/StarlinkRearView.jpg" width="45%"></a>
 </p>
 
 ## Materials
@@ -54,13 +54,13 @@ the roof or for sealing a vent cover for the washer in the side of the RV.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/StarlinkRearView.jpg" width="45%">
-  <img src="../assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="45%">
+  <a href="../assets/pics/full/StarlinkRearView.jpg"><img alt="Starlink Rear View" src="../assets/pics/thumbs/StarlinkRearView.jpg" width="45%"></a>
+  <a href="../assets/pics/full/StarlinkBehind2ndAnd3rdAC.jpg"><img alt="Starlink Behind2nd And3rd AC" src="../assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="45%"></a>
 </p>
 
 <p>
-  <img src="../assets/pics/thumbs/RoofJunctionBoxStarlink.jpg" width="45%">
-  <img src="../assets/pics/thumbs/RJ45OutdoorConnectionUnderStarlink.jpg" width="45%">
+  <a href="../assets/pics/full/RoofJunctionBoxStarlink.jpg"><img alt="Roof Junction Box Starlink" src="../assets/pics/thumbs/RoofJunctionBoxStarlink.jpg" width="45%"></a>
+  <a href="../assets/pics/full/RJ45OutdoorConnectionUnderStarlink.jpg"><img alt="RJ45Outdoor Connection Under Starlink" src="../assets/pics/thumbs/RJ45OutdoorConnectionUnderStarlink.jpg" width="45%"></a>
 </p>
 
 ## Notes / Lessons

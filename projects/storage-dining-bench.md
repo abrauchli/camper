@@ -13,20 +13,20 @@ convenient storage options.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/TableAndStools.jpg" width="45%">
-  <img src="../assets/pics/thumbs/StorageLBenchBack.jpg" width="45%">
+  <a href="../assets/pics/full/TableAndStools.jpg"><img alt="Table And Stools" src="../assets/pics/thumbs/TableAndStools.jpg" width="45%"></a>
+  <a href="../assets/pics/full/StorageLBenchBack.jpg"><img alt="Storage L Bench Back" src="../assets/pics/thumbs/StorageLBenchBack.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/StorageLBenchOpen.jpg" width="45%">
-  <img src="../assets/pics/thumbs/StorageLBenchFront.jpg" width="45%">
+  <a href="../assets/pics/full/StorageLBenchOpen.jpg"><img alt="Storage L Bench Open" src="../assets/pics/thumbs/StorageLBenchOpen.jpg" width="45%"></a>
+  <a href="../assets/pics/full/StorageLBenchFront.jpg"><img alt="Storage L Bench Front" src="../assets/pics/thumbs/StorageLBenchFront.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/StorageLBenchMiddle.jpg" width="45%">
-  <img src="../assets/pics/thumbs/StorageLBenchMiddleTwoSections.jpg" width="45%">
+  <a href="../assets/pics/full/StorageLBenchMiddle.jpg"><img alt="Storage L Bench Middle" src="../assets/pics/thumbs/StorageLBenchMiddle.jpg" width="45%"></a>
+  <a href="../assets/pics/full/StorageLBenchMiddleTwoSections.jpg"><img alt="Storage L Bench Middle Two Sections" src="../assets/pics/thumbs/StorageLBenchMiddleTwoSections.jpg" width="45%"></a>
 </p>
 </p>
-  <img src="../assets/pics/thumbs/StorageLBench.jpg" width="45%">
-  <img src="../assets/pics/thumbs/StorageLBenchBottomCutout.jpg" width="45%">
+  <a href="../assets/pics/full/StorageLBench.jpg"><img alt="Storage L Bench" src="../assets/pics/thumbs/StorageLBench.jpg" width="45%"></a>
+  <a href="../assets/pics/full/StorageLBenchBottomCutout.jpg"><img alt="Storage L Bench Bottom Cutout" src="../assets/pics/thumbs/StorageLBenchBottomCutout.jpg" width="45%"></a>
 </p>
 <p>
 

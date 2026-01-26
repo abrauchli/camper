@@ -28,18 +28,18 @@ Sturdy and road-worthy roof solar install
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/SolarPanels.jpg" width="45%">
-  <img src="../assets/pics/thumbs/SolarPanelMidClamp.jpg" width="45%">
+  <a href="../assets/pics/full/SolarPanels.jpg"><img alt="Solar Panels" src="../assets/pics/thumbs/SolarPanels.jpg" width="45%"></a>
+  <a href="../assets/pics/full/SolarPanelMidClamp.jpg"><img alt="Solar Panel Mid Clamp" src="../assets/pics/thumbs/SolarPanelMidClamp.jpg" width="45%"></a>
 </p>
 
 <p>
-  <img src="../assets/pics/thumbs/SolarUnistruts.jpg" width="45%">
-  <img src="../assets/pics/thumbs/SolarEdgeClampOnUnistrut.jpg" width="45%">
+  <a href="../assets/pics/full/SolarUnistruts.jpg"><img alt="Solar Unistruts" src="../assets/pics/thumbs/SolarUnistruts.jpg" width="45%"></a>
+  <a href="../assets/pics/full/SolarEdgeClampOnUnistrut.jpg"><img alt="Solar Edge Clamp On Unistrut" src="../assets/pics/thumbs/SolarEdgeClampOnUnistrut.jpg" width="45%"></a>
 </p>
 
 <p>
-  <img src="../assets/pics/thumbs/RoofJunctionBox.jpg" width="45%">
-  <img src="../assets/pics/thumbs/RoofJunctionBoxForSolarAndStarlink.jpg" width="45%">
+  <a href="../assets/pics/full/RoofJunctionBox.jpg"><img alt="Roof Junction Box" src="../assets/pics/thumbs/RoofJunctionBox.jpg" width="45%"></a>
+  <a href="../assets/pics/full/RoofJunctionBoxForSolarAndStarlink.jpg"><img alt="Roof Junction Box For Solar And Starlink" src="../assets/pics/thumbs/RoofJunctionBoxForSolarAndStarlink.jpg" width="45%"></a>
 </p>
 
 ## Notes

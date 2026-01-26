@@ -15,12 +15,12 @@ it it could damage your tote and/or the trailer.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/DumpToteOnUnistrutsOverview.jpg" width="45%">
-  <img src="../assets/pics/thumbs/DumpToteOnUnistruts.jpg" width="45%">
+  <a href="../assets/pics/full/DumpToteOnUnistrutsOverview.jpg"><img alt="Dump Tote On Unistruts Overview" src="../assets/pics/thumbs/DumpToteOnUnistrutsOverview.jpg" width="45%"></a>
+  <a href="../assets/pics/full/DumpToteOnUnistruts.jpg"><img alt="Dump Tote On Unistruts" src="../assets/pics/thumbs/DumpToteOnUnistruts.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/DumpToteOnUnistrutsSide.jpg" width="45%">
-  <img src="../assets/pics/thumbs/DumpToteOnUnistrutsStop.jpg" width="45%">
+  <a href="../assets/pics/full/DumpToteOnUnistrutsSide.jpg"><img alt="Dump Tote On Unistruts Side" src="../assets/pics/thumbs/DumpToteOnUnistrutsSide.jpg" width="45%"></a>
+  <a href="../assets/pics/full/DumpToteOnUnistrutsStop.jpg"><img alt="Dump Tote On Unistruts Stop" src="../assets/pics/thumbs/DumpToteOnUnistrutsStop.jpg" width="45%"></a>
 </p>
 
 ## Materials

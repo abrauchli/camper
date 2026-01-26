@@ -34,7 +34,7 @@ plan on.
 - [Stools](https://www.amazon.com/IBUYKE-Cushion-Upholstered-Entryway-WBD007NG/dp/B0DBHD6DMT?tag=rvlifehacks-20)
   We store three of those under the table.
 
-  <img src="../assets/pics/thumbs/TableAndStools.jpg" width="25%">
+  <a href="../assets/pics/full/TableAndStools.jpg"><img alt="Table And Stools" src="../assets/pics/thumbs/TableAndStools.jpg" width="25%"></a>
 
 ## Dimensions
 

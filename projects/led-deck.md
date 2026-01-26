@@ -12,12 +12,12 @@ Indirect decorating lighting on the deck
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/LEDDeckIlluminated.jpg" width="45%">
-  <img src="../assets/pics/thumbs/LEDOntoRailing.jpg" width="45%">
+  <a href="../assets/pics/full/LEDDeckIlluminated.jpg"><img alt="LED Deck Illuminated" src="../assets/pics/thumbs/LEDDeckIlluminated.jpg" width="45%"></a>
+  <a href="../assets/pics/full/LEDOntoRailing.jpg"><img alt="LED Onto Railing" src="../assets/pics/thumbs/LEDOntoRailing.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/LEDSolderedJunction.jpg" width="45%">
-  <img src="../assets/pics/thumbs/LEDAlongRampDoors.jpg" width="45%">
+  <a href="../assets/pics/full/LEDSolderedJunction.jpg"><img alt="LED Soldered Junction" src="../assets/pics/thumbs/LEDSolderedJunction.jpg" width="45%"></a>
+  <a href="../assets/pics/full/LEDAlongRampDoors.jpg"><img alt="LED Along Ramp Doors" src="../assets/pics/thumbs/LEDAlongRampDoors.jpg" width="45%"></a>
 </p>
 
 ## Materials
@@ -46,12 +46,12 @@ Indirect decorating lighting on the deck
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/LEDAlongRampDoors.jpg" width="45%">
-  <img src="../assets/pics/thumbs/LEDOntoRailing.jpg" width="45%">
+  <a href="../assets/pics/full/LEDAlongRampDoors.jpg"><img alt="LED Along Ramp Doors" src="../assets/pics/thumbs/LEDAlongRampDoors.jpg" width="45%"></a>
+  <a href="../assets/pics/full/LEDOntoRailing.jpg"><img alt="LED Onto Railing" src="../assets/pics/thumbs/LEDOntoRailing.jpg" width="45%"></a>
 </p>
 
 <p>
-  <img src="../assets/pics/thumbs/LEDSolderedJunction.jpg" width="45%">
+  <a href="../assets/pics/full/LEDSolderedJunction.jpg"><img alt="LED Soldered Junction" src="../assets/pics/thumbs/LEDSolderedJunction.jpg" width="45%"></a>
 </p>
 
 ## Notes

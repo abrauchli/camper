@@ -24,7 +24,7 @@ After countless trial-and-error trims we chiseled off about 1/2" in total from
 the OSB boards on the side and 1/4" from the overhanging lip on top side of the
 dishwasher.
 
-<img src="../assets/pics/thumbs/DishwasherChiseledSidewall.jpg" width="45%">
+<a href="../assets/pics/full/DishwasherChiseledSidewall.jpg"><img alt="Dishwasher Chiseled Sidewall" src="../assets/pics/thumbs/DishwasherChiseledSidewall.jpg" width="45%"></a>
 
 If you do cut through the stainless steel, use the oscillating multi-tool. The
 blade will be dull after but it works much better and with a nicer edge than the
@@ -33,11 +33,11 @@ angle grinder that mostly just melted through it.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/DishwasherOuterOverlap.jpg" width="45%">
+  <a href="../assets/pics/full/DishwasherOuterOverlap.jpg"><img alt="Dishwasher Outer Overlap" src="../assets/pics/thumbs/DishwasherOuterOverlap.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/DishwasherTrimmedLip.jpg" width="45%">
-  <img src="../assets/pics/thumbs/DishwasherPiping.jpg" width="45%">
+  <a href="../assets/pics/full/DishwasherTrimmedLip.jpg"><img alt="Dishwasher Trimmed Lip" src="../assets/pics/thumbs/DishwasherTrimmedLip.jpg" width="45%"></a>
+  <a href="../assets/pics/full/DishwasherPiping.jpg"><img alt="Dishwasher Piping" src="../assets/pics/thumbs/DishwasherPiping.jpg" width="45%"></a>
 </p>
 
 ## Materials
@@ -92,7 +92,7 @@ angle grinder that mostly just melted through it.
   [ABS cement](https://www.homedepot.com/p/Oatey-4-oz-Medium-Black-ABS-Cement-309993/100136815)
   at Home Depot.
 
-  <img src="../assets/pics/thumbs/DishwasherABSAndColdWaterValve.jpg" width="45%">
+  <a href="../assets/pics/full/DishwasherABSAndColdWaterValve.jpg"><img alt="Dishwasher ABS And Cold Water Valve" src="../assets/pics/thumbs/DishwasherABSAndColdWaterValve.jpg" width="45%"></a>
 
 - Keep a P-trap in the sink and dishwasher's overflow lines. The manual doesn't
   account for those and it started smelling every time we parked until we
@@ -101,7 +101,7 @@ angle grinder that mostly just melted through it.
   according to manual because with the added overflow P-Trap it would've
   stretched the drain too much.
 
-  <img src="../assets/pics/thumbs/DishwasherOverflowPTraps.jpg" width="45%">
-  <img src="../assets/pics/thumbs/DishwasherOverflowPTrapsBack.jpg" width="45%">
+  <a href="../assets/pics/full/DishwasherOverflowPTraps.jpg"><img alt="Dishwasher Overflow P Traps" src="../assets/pics/thumbs/DishwasherOverflowPTraps.jpg" width="45%"></a>
+  <a href="../assets/pics/full/DishwasherOverflowPTrapsBack.jpg"><img alt="Dishwasher Overflow P Traps Back" src="../assets/pics/thumbs/DishwasherOverflowPTrapsBack.jpg" width="45%"></a>
 
 [Back to Overview](../README.md)

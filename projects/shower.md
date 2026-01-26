@@ -14,8 +14,8 @@
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/ShowerDoorRetractable.jpg" width="45%">
-  <img src="../assets/pics/thumbs/ShowerAccessFromPantry.jpg" width="45%">
+  <a href="../assets/pics/full/ShowerDoorRetractable.jpg"><img alt="Shower Door Retractable" src="../assets/pics/thumbs/ShowerDoorRetractable.jpg" width="45%"></a>
+  <a href="../assets/pics/full/ShowerAccessFromPantry.jpg"><img alt="Shower Access From Pantry" src="../assets/pics/thumbs/ShowerAccessFromPantry.jpg" width="45%"></a>
 </p>
 
 ## Materials

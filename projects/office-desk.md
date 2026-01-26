@@ -48,12 +48,12 @@ Sideboard:
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/OfficeFoldableDeskUp.jpg" width="45%">
-  <img src="../assets/pics/thumbs/OfficeFoldableDeskDown.jpg" width="45%">
+  <a href="../assets/pics/full/OfficeFoldableDeskUp.jpg"><img alt="Office Foldable Desk Up" src="../assets/pics/thumbs/OfficeFoldableDeskUp.jpg" width="45%"></a>
+  <a href="../assets/pics/full/OfficeFoldableDeskDown.jpg"><img alt="Office Foldable Desk Down" src="../assets/pics/thumbs/OfficeFoldableDeskDown.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/OfficeDesktopPC.jpg" width="45%">
-  <img src="../assets/pics/thumbs/OfficeChair.jpg" width="45%">
+  <a href="../assets/pics/full/OfficeDesktopPC.jpg"><img alt="Office Desktop PC" src="../assets/pics/thumbs/OfficeDesktopPC.jpg" width="45%"></a>
+  <a href="../assets/pics/full/OfficeChair.jpg"><img alt="Office Chair" src="../assets/pics/thumbs/OfficeChair.jpg" width="45%"></a>
 </p>
 
 ## Notes

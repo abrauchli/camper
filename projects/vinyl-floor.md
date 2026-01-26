@@ -12,12 +12,12 @@ Flat homey looking floor instead of toy garage floor
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/GarageFloorLevelers.jpg" width="45%">
-  <img src="../assets/pics/thumbs/GarageFloorWIP.jpg" width="45%">
+  <a href="../assets/pics/full/GarageFloorLevelers.jpg"><img alt="Garage Floor Levelers" src="../assets/pics/thumbs/GarageFloorLevelers.jpg" width="45%"></a>
+  <a href="../assets/pics/full/GarageFloorWIP.jpg"><img alt="Garage Floor WIP" src="../assets/pics/thumbs/GarageFloorWIP.jpg" width="45%"></a>
 </p>
 <p>
-  <img src="../assets/pics/thumbs/GarageFloorToilet.jpg" width="45%">
-  <img src="../assets/pics/thumbs/GarageKidsRoom.jpg" width="45%">
+  <a href="../assets/pics/full/GarageFloorToilet.jpg"><img alt="Garage Floor Toilet" src="../assets/pics/thumbs/GarageFloorToilet.jpg" width="45%"></a>
+  <a href="../assets/pics/full/GarageKidsRoom.jpg"><img alt="Garage Kids Room" src="../assets/pics/thumbs/GarageKidsRoom.jpg" width="45%"></a>
 </p>
 
 ## Materials
@@ -44,7 +44,7 @@ Flat homey looking floor instead of toy garage floor
 - Use the hole saw to drill a hole into the beams to have some air movement
   underneath and outwards.
 
-  <img src="../assets/pics/thumbs/DeckDoorSealBrushOpen.jpg" width="25%">
+  <a href="../assets/pics/full/DeckDoorSealBrushOpen.jpg"><img alt="Deck Door Seal Brush Open" src="../assets/pics/thumbs/DeckDoorSealBrushOpen.jpg" width="25%"></a>
 
 - Treat the outward facing "stair step" beam with Polyurethane since shoes will
   eventually hit it.

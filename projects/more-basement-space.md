@@ -17,8 +17,8 @@ furnace, water heater, electricity panel, etc.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/BasementWaterManifoldMess.jpg" width="45%">
-  <img src="../assets/pics/thumbs/BasementRodentHeatingDamage.jpg" width="45%">
+  <a href="../assets/pics/full/BasementWaterManifoldMess.jpg"><img alt="Basement Water Manifold Mess" src="../assets/pics/thumbs/BasementWaterManifoldMess.jpg" width="45%"></a>
+  <a href="../assets/pics/full/BasementRodentHeatingDamage.jpg"><img alt="Basement Rodent Heating Damage" src="../assets/pics/thumbs/BasementRodentHeatingDamage.jpg" width="45%"></a>
 </p>
 
 ## Material

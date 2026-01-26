@@ -26,17 +26,17 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 
 - [Foldable Office Desk](office-desk.md)
 
-  <img src="../assets/pics/thumbs/OfficeFoldableDeskUp.jpg" width="15%">
+  <a href="../assets/pics/full/OfficeFoldableDeskUp.jpg"><img alt="Office Foldable Desk Up" src="../assets/pics/thumbs/OfficeFoldableDeskUp.jpg" width="15%"></a>
 
 ### Living Room
 
 - [Dining Table](dining-table.md)
 - [Storage L-Shaped Dining Bench](storage-dining-bench.md)
 
-  <img src="../assets/pics/thumbs/TableAndStools.jpg" width="15%">
+  <a href="../assets/pics/full/TableAndStools.jpg"><img alt="Table And Stools" src="../assets/pics/thumbs/TableAndStools.jpg" width="15%"></a>
 - [Fireplace Cleanout](fireplace-cleanout.md)
 
-  <img src="../assets/pics/thumbs/FireplaceOut.jpg" width="15%">
+  <a href="../assets/pics/full/FireplaceOut.jpg"><img alt="Fireplace Out" src="../assets/pics/thumbs/FireplaceOut.jpg" width="15%"></a>
 
 ### Roof
 
@@ -44,11 +44,11 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 - [Solar setup (Mechanic)](solar-mechanic.md)
 - [Solar setup (Electric)](solar-electric.md)
 
-  <img src="../assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="15%">
+  <a href="../assets/pics/full/StarlinkBehind2ndAnd3rdAC.jpg"><img alt="Starlink Behind2nd And3rd AC" src="../assets/pics/thumbs/StarlinkBehind2ndAnd3rdAC.jpg" width="15%"></a>
 
 - [Roof-Mounted Dump Tote](roof-mounted-dump-tote.md)
 
-  <img src="../assets/pics/thumbs/DumpToteOnUnistrutsOverview.jpg" width="15%">
+  <a href="../assets/pics/full/DumpToteOnUnistrutsOverview.jpg"><img alt="Dump Tote On Unistruts Overview" src="../assets/pics/thumbs/DumpToteOnUnistrutsOverview.jpg" width="15%"></a>
 
 ### Deck
 
@@ -56,23 +56,23 @@ Hands-on RV modifications with photos, install notes, and lessons learned.
 - [LED lighting on deck](deck-leds.md)
 - [Acrylic Panel Doors](acrylic-panel-doors.md)
 
-  <img src="../assets/pics/thumbs/LEDDeckIlluminated.jpg" width="15%">
+  <a href="../assets/pics/full/LEDDeckIlluminated.jpg"><img alt="LED Deck Illuminated" src="../assets/pics/thumbs/LEDDeckIlluminated.jpg" width="15%"></a>
 
 ### Kids Room / Garage
 
 - [Garage Luxury Vinyl Floor](vinyl-floor.md)
 - [Climbing Wall](climbing-wall.md)
 
-  <img src="../assets/pics/thumbs/ClimbingWall.jpg" width="15%">
+  <a href="../assets/pics/full/ClimbingWall.jpg"><img alt="Climbing Wall" src="../assets/pics/thumbs/ClimbingWall.jpg" width="15%"></a>
 
 - [Loft Access from Garage](garage-loft-entrance.md)
 
-  <img src="../assets/pics/thumbs/LoftOpening.jpg" width="15%">
+  <a href="../assets/pics/full/LoftOpening.jpg"><img alt="Loft Opening" src="../assets/pics/thumbs/LoftOpening.jpg" width="15%"></a>
 
 ### Exterior
 
 - [Rear Stabilizers](rear-stabilizers.md)
 
-  <img src="../assets/pics/thumbs/RearStabilizersSide.jpg" width="15%">
+  <a href="../assets/pics/full/RearStabilizersSide.jpg"><img alt="Rear Stabilizers Side" src="../assets/pics/thumbs/RearStabilizersSide.jpg" width="15%"></a>
 
 [Back to Overview](../README.md)

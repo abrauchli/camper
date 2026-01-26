@@ -13,8 +13,8 @@ clear acrylic "plexiglass" panels.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/DeckDoorAcrylicSheetPanel.jpg" width="45%">
-  <img src="../assets/pics/thumbs/DeckDoorAcrylicVelcro.jpg" width="45%">
+  <a href="../assets/pics/full/DeckDoorAcrylicSheetPanel.jpg"><img alt="Deck Door Acrylic Sheet Panel" src="../assets/pics/thumbs/DeckDoorAcrylicSheetPanel.jpg" width="45%"></a>
+  <a href="../assets/pics/full/DeckDoorAcrylicVelcro.jpg"><img alt="Deck Door Acrylic Velcro" src="../assets/pics/thumbs/DeckDoorAcrylicVelcro.jpg" width="45%"></a>
 </p>
 
 ## Materials

@@ -29,8 +29,8 @@ exposed to the sun.
 ## Photos
 
 <p>
-  <img src="../assets/pics/thumbs/TeakDeck.jpg" width="45%">
-  <img src="../assets/pics/thumbs/TeakDeckAndLEDHinges.jpg" width="45%">
+  <a href="../assets/pics/full/TeakDeck.jpg"><img alt="Teak Deck" src="../assets/pics/thumbs/TeakDeck.jpg" width="45%"></a>
+  <a href="../assets/pics/full/TeakDeckAndLEDHinges.jpg"><img alt="Teak Deck And LED Hinges" src="../assets/pics/thumbs/TeakDeckAndLEDHinges.jpg" width="45%"></a>
 </p>
 
 ## Notes
