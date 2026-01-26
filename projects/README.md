@@ -4,13 +4,13 @@ Replicate and improve as desired. Feedback is welcome.
 
 ## Table of Contents
 
-- [DIY Projects](#projects)
+- [DIY Projects](#diy-projects)
   - [Kitchen](#kitchen)
-  - [Office / Bedroom](#office-bedroom)
+  - [Office / Bedroom](#office--bedroom)
   - [Living Room](#living-room)
   - [Roof](#roof)
   - [Deck](#deck)
-  - [Kids Room / Garage](#kids-room-garage)
+  - [Kids Room / Garage](#kids-room--garage)
   - [Exterior](#exterior)
 
 ## DIY Projects
