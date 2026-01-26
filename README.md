@@ -468,6 +468,11 @@ often. Better than the clip breaking off, but a tad tighter would help.
   The plastic seems a bit stiff but they work and I've done a few on/off cycles.
   Maybe the trick to not breaking them is to use pliers instead of a
   screwdriver.
+- [Epoxy Kit](https://www.amazon.com/WEST-SYSTEM-Special-Hardener-Metering/dp/B07JWB983K?tag=rvlifehacks-20)
+- [Fireglass Cloth](https://www.amazon.com/Fiberglass-%EF%BC%8CRepair-Reinforcement-Insulation-Glass/dp/B0C46GXVT9?tag=rvlifehacks-20)
+  for strongest epoxy repairs
+- [Painbrushes for Epoxy](https://www.amazon.com/Bates-Brushes-Natural-Bristle-Painting/dp/B0BFFYRX23?tag=rvlifehacks-20)
+  to apply epoxy on fibreglass cloth.
 
 ### Outdoor Toys
 
@@ -543,6 +548,10 @@ often. Better than the clip breaking off, but a tad tighter would help.
   awning fabric against potential tears.
 
   <img src="assets/pics/thumbs/Eternabond.jpg" width="15%">
+- [25' 50a Cable Extension](https://www.amazon.com/dp/B0CB277RGB?tag=rvlifehacks-20).
+  Although it has a 50a plug it's not a true 50a cable because it's 2x 6AWG, 2x 8AWG. Works great as an
+  extension, rolls up well due to the thinner copper but you must have a way to
+  limit power draw to 30A (e.g. on the Victron Inverter).
 
 ### Random Stuff
 
@@ -551,7 +560,6 @@ often. Better than the clip breaking off, but a tad tighter would help.
 
   <img src="assets/pics/thumbs/UtilityUSBLamps.jpg" width="25%">
 
-- [Painbrushes for Epoxy](https://www.amazon.com/Bates-Brushes-Natural-Bristle-Painting/dp/B0BFFYRX23?tag=rvlifehacks-20)
 - [Magsafe Phone Holder/Charger](https://www.amazon.com/LISEN-Magsafe-Magnetic-Wireless-Charging/dp/B0CQPHLQYH?tag=rvlifehacks-20)
   We got one on the driver and one on the passenger side of the pickup. Needs a
   Magsafe case (e.g.
