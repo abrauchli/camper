@@ -84,11 +84,16 @@ and flash it to the microSD card using a tool like
    the Pi - within 3-10ft to be safe.
 2. Open Victron Connect and look for the Venus OS device in the Bluetooth device
    list
+
+   <a href="../assets/pics/full/VictronConnectAppOverview.jpg"><img alt="Victron Connect App Overview" src="../assets/pics/thumbs/VictronConnectAppOverview.jpg" width="45%"></a>
+
 3. Connect to the Venus OS device
 4. Navigate to the network settings and configure your WiFi credentials
 5. The Pi will connect to your WiFi network and be accessible via the Remote
    Console. Also, the Pi will be connectable by WiFi even if outside of BLE
    range.
+
+   <a href="../assets/pics/full/VictronConnectAppRaspiIPDevice.jpg"><img alt="Victron Connect App Raspi IP Device" src="../assets/pics/thumbs/VictronConnectAppRaspiIPDevice.jpg" width="45%"></a>
 
 ## System Configuration
 
@@ -120,6 +125,8 @@ found."
 Settings on the Multiplus II inverter/charger cannot be changed through Venus
 OS. To modify Multiplus settings:
 
+<a href="../assets/pics/full/VictronConnectAppRaspiMultiplusSettingsDisabled.jpg"><img alt="Victron Connect App Raspi Multiplus Settings Disabled" src="../assets/pics/thumbs/VictronConnectAppRaspiMultiplusSettingsDisabled.jpg" width="45%"></a>
+
 - You must connect directly to the Multiplus via VE.Bus MK3 USB cable using the
   Victron Connect app on your phone
 - Or use the VE.Bus MK3-USB interface with VEConfigure software on a computer
@@ -135,6 +142,9 @@ Once configured, you can:
 
 - Access the Remote Console via web browser at `http://venus.local` or
   `https://<venus-ip-address>`
+
+  <a href="../assets/pics/full/VenusOSGUIv2.jpg"><img alt="Venus OS GUI v2" src="../assets/pics/thumbs/VenusOSGUIv2.jpg" width="45%"></a>
+
 - Use the VRM (Victron Remote Management) portal for cloud-based monitoring. I
   don't use it.
 - View all connected devices and their status
