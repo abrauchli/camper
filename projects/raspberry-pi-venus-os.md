@@ -40,9 +40,12 @@ The Pi Zero 2W draws about 1W with light loads (such as this).
   Aluminum case with heatsink that doesn't block wireless signals. Includes
   micro-USB to USB-A adapter for connecting the USB hub.
 
-- [USB-C Hub with USB-A ports](https://www.amazon.com/BERLAT-Aluminum-Laptops-MacBook/dp/B0DBTFLPJP?tag=rvlifehacks-20)
-  4x USB-A ports (for VE.Direct cables to Blue Solar MPPTs and SmartShunt) and
-  1x USB-C port (for MK3 cable to Multiplus).
+- [Powered 4-Port USB 2.0 Hub](https://www.amazon.com/dp/B0BKZK4KGH?tag=rvlifehacks-20)
+  Use a USB 2.0 hub. Powered is a must if you have more than 3 cables.
+
+  The Pi Zero 2W does not do well with USB-C hubs. Even when not powered, it
+  did not work. The devices enumerated on the shell but Venus was not able to
+  pick them up because coms failed.
 
 - [MicroSD Card 256GB](https://www.amazon.com/SAMSUNG-microSDXC-Expanded-MB-ME256KA-AM/dp/B09B1GXM16?tag=rvlifehacks-20)
   Venus OS "large" variant image uses ~3.5GB unpacked. 256GB provides plenty of
