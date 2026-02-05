@@ -13,6 +13,12 @@ Replicate and improve as desired. Feedback is welcome.
   - [Kids Room / Garage](#kids-room--garage)
   - [Exterior](#exterior)
 
+## Disclaimer
+
+**⚠ DISCLAIMER: Projects and products are for educational purpose. Build, buy
+and use at your own risk and peril. No guarantees whatsoever are made, even when
+explicitly stated.**
+
 ## DIY Projects
 
 Hands-on RV modifications with photos, install notes, and lessons learned.

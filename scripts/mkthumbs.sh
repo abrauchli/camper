@@ -35,7 +35,7 @@ for f in "$ORIG_DIR"/*.jpg; do
       -interlace Plane \
       -quality "$QUALITY_THUMB" \
       "$thumb"
-    echo -n .
+    echo $(basename ${thumb})
   fi
 done
 

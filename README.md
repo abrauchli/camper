@@ -3,6 +3,9 @@
 A collection of projects we did and a list of products we actually like and use
 on our 2019 Grand Design Momentum 395m RV.
 
+Go straight to the products in the [RV Product List](#rv-product-list) or to the
+[DIY Projects](#diy-projects)
+
 ## Disclaimer
 
 **⚠ DISCLAIMER: Projects and products are for educational purpose. Build, buy
@@ -120,6 +123,7 @@ _As an Amazon Associate I earn from qualifying purchases._
 - [Fridge](#fridge)
 - [Plumbing and Sewage](#plumbing-and-sewage)
 - [Screen Doors](#screen-doors)
+- [Tools, Maintenance and Repairs](#tools-maintenance-and-repairs)
 - [Storage](#storage)
 - [Outdoor Toys](#outdoor-toys)
 - [Other Indoor Equipment](#other-indoor-equipment)
@@ -450,7 +454,7 @@ often. Better than the clip breaking off, but a tad tighter would help.
 - [Medium 32Qt Storage Bins](https://www.amazon.com/IRIS-USA-Plastic-Container-Latching/dp/B0BRFJ5QRK?tag=rvlifehacks-20)
 - [Large 72Qt Storage Bins](https://www.amazon.com/IRIS-USA-Plastic-Container-Latching/dp/B0BRFJ5QRK?tag=rvlifehacks-20)
 
-### Generic Maintenance and Repairs
+### Tools, Maintenance and Repairs
 
 - [Butt connectors](https://www.amazon.com/TICONN-Connectors-Waterproof-Electrical-Automotive/dp/B086Z3H4X8?tag=rvlifehacks-20)
   for smaller wires. Used it on fridge, trailer lights, 4" roof lights, ...
@@ -474,6 +478,8 @@ often. Better than the clip breaking off, but a tad tighter would help.
   for strongest epoxy repairs
 - [Painbrushes for Epoxy](https://www.amazon.com/Bates-Brushes-Natural-Bristle-Painting/dp/B0BFFYRX23?tag=rvlifehacks-20)
   to apply epoxy on fibreglass cloth.
+- [Low-clearance creeper mat](https://www.amazon.com/dp/B0FPFVPMR9?tag=rvlifehacks-20)
+  Hardly takes up storage and rolls. Great for underbelly works.
 
 ### Outdoor Toys
 
